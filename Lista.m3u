@@ -23,14 +23,12 @@ https://cdn.cvattv.com.ar/live/c6eds/Canal_Rural/SA_Live_dash_enc/Canal_Rural.mp
 #EXTINF:-1 group-title="Argentina"  tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/HCDTV.png?raw=true" tvg-group="Nacionales", Diputados TV
 https://cdn.cvattv.com.ar/live/c6eds/Diputados_TV/SA_Live_dash_enc/Diputados_TV.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=bd1767fe3554f1285222b5610105c0e9:839d5b1eec7eb70d68c1e1531fc0d6d4
 #EXTINF:-1 tvg-id="T5Satelital" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/T5SAT.png?raw=true", T5 Satelital
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0c7cb1ff69ab931bc2348f2e00381544:e89139fc667b4e306f1accb3db40a584
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
-https://cdn.sensa.com.ar/bpk-tv/T5Satelital/default/index.mpd
+https://cdn.sensa.com.ar/bpk-tv/T5Satelital/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
-#EXTINF:-1  tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CARAS.png?raw=true" group-title="Argentina", Caras TV
-https://unlimited1-buenosaires.dps.live/carastv/carastv.smil/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=cc8c82ac2ec7e9799527c29db7354e81:cc4aae173dd2ef17ae26be3f7ae87662
@@ -62,10 +60,7 @@ https://cdn.cvattv.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc/TelefeHD.mpd?|ref
 #EXTINF:-1 ch-number="11" group-title="Argentina" tvg-id="Telefe.ar", tvg-logo="https://i.ibb.co/Xk2ZFyC/telefe-internacional.png", Telefé
 https://cdn.cvattv.com.ar/live/c4eds/Telefe_Internacional/SA_Live_dash_enc/Telefe_Internacional.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
-#EXTINF:-1 ch-number="12" tvg-id="ElDoce.ar" tvg-logo="https://i.imgur.com/HfyKPpD.png" group-title="Córdoba", El Doce Córdoba
 
-#EXTINF:-1 ch-number="12" tvg-id="ElDoce.ar" tvg-logo="https://i.imgur.com/HfyKPpD.png" group-title="Córdoba", El Doce Córdoba
-https://radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0212
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5179017f49326d14af0a9ceec831aee6:09b4a463b029ebc28a288bed2da70a76
@@ -188,42 +183,7 @@ http://m.mtd.llc:2082/extratv/index.mpd?|origin=https://www.telecentroplay.com.a
 http://m.mtd.llc:2082/eldestape/index.mpd?|origin=https://www.telecentroplay.com.ar
 
 
-gran hermano
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"fHz2EQodSu6BTklsp6OqLQ","k":"1y6eBolxwMv27uN5EGd11Q"},{"kty":"oct","kid":"3n197Ui0N9aRlmrNyKlyYg","k":"DRHMXVAueJSzZKS3yqu_9A"}],"type":"temporary"}
-#EXTINF:-1 tvg-id="granhermano" tvg-logo="https://i.ibb.co/tq4M9Pk/granhermano.png", Gran Hermano
-#EXTVLCOPT:http-origin=android_mobile.directvgo.com
-#EXTVLCOPT:http-user-agent=dgo/4.48.0 (Android; Android 7.1.2; Asus; ASUS_Z01QD) ExoPlayer/2.19.1
-http://m.mtd.llc:8880/CH0100000000341/index.mpd?|Origin="android_mobile.directvgo.com"
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"gfbfsbvhSK2XV9fw1_c65w","k":"a0IfFxHEsTQYHScGbloHtw"},{"kty":"oct","kid":"lVFVkIWENIiHa0cs1UFgAA","k":"wSwvs6diLmOxz5nCLGBNPQ"}],"type":"temporary"}
-#EXTINF:-1 tvg-id="granhermano" tvg-logo="https://i.ibb.co/tq4M9Pk/granhermano.png", Gran Hermano cámara 1
-#EXTVLCOPT:http-origin=android_mobile.directvgo.com
-#EXTVLCOPT:http-user-agent=dgo/4.48.0 (Android; Android 7.1.2; Asus; ASUS_Z01QD) ExoPlayer/2.19.1
-http://m.mtd.llc:8880/CH0100000000342/index.mpd?|Origin="android_mobile.directvgo.com"
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"rUZcQoUbRMyoTwambDOuWw","k":"U_tkaRfJFDm3wA0bR7HbxA"},{"kty":"oct","kid":"IGuij2kfNPiNiIbMQnAsTA","k":"eDC2kkFqQT4fMfuBo733Ug"}],"type":"temporary"}
-#EXTINF:-1 tvg-id="granhermano" tvg-logo="https://i.ibb.co/tq4M9Pk/granhermano.png", Gran Hermano Cámara 2
-#EXTVLCOPT:http-origin=android_mobile.directvgo.com
-#EXTVLCOPT:http-user-agent=dgo/4.48.0 (Android; Android 7.1.2; Asus; ASUS_Z01QD) ExoPlayer/2.19.1
-http://m.mtd.llc:8880/CH0100000000343/index.mpd?|Origin="android_mobile.directvgo.com"
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"a5R84Jf6TlGHXRWouLWBoA","k":"WGcZTy86VNw32RbWyH5V7Q"},{"kty":"oct","kid":"zZlB53_GMQCYas3La8umYQ","k":"16vFV9VGXvMKiQZJPs5A-g"}],"type":"temporary"}
-#EXTINF:-1 tvg-id="granhermano" tvg-logo="https://i.ibb.co/tq4M9Pk/granhermano.png", Gran Hermano Cámara 3
-#EXTVLCOPT:http-origin=android_mobile.directvgo.com
-#EXTVLCOPT:http-user-agent=dgo/4.48.0 (Android; Android 7.1.2; Asus; ASUS_Z01QD) ExoPlayer/2.19.1
-http://m.mtd.llc:8880/CH0100000000340/index.mpd?|Origin="android_mobile.directvgo.com"
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"AevBQH5MXCGIy7PkG5ichg","k":"FLm8r4XEK5hany4GQ_Uiyg"}],"type":"temporary"}
-#EXTINF:-1 tvg-id="granhermano" tvg-logo="https://i.ibb.co/tq4M9Pk/granhermano.png", Gran Hermano Multi Cámara 
-#EXTVLCOPT:http-origin=android_mobile.directvgo.com
-#EXTVLCOPT:http-user-agent=dgo/4.48.0 (Android; Android 7.1.2; Asus; ASUS_Z01QD) ExoPlayer/2.19.1
-http://m.mtd.llc:8880/CH0100000000345/index.mpd?|Origin="android_mobile.directvgo.com"
 
 
 deportes (100xx)
