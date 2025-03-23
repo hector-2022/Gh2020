@@ -23,24 +23,6 @@ https://cdn.cvattv.com.ar/live/c6eds/Canal_Rural/SA_Live_dash_enc/Canal_Rural.mp
 #EXTINF:-1 group-title="Argentina"  tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/HCDTV.png?raw=true" tvg-group="Nacionales", Diputados TV
 https://cdn.cvattv.com.ar/live/c6eds/Diputados_TV/SA_Live_dash_enc/Diputados_TV.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=39673983f4ba22f0f80c0934ce0424c8:cd9f3498cb63cc72d1317b14a67ab93c
-#EXTINF:-1 group-title="Infantil" ch-number="201" tvg-id="CanalInfantil" tvg-logo="https://dl.dropbox.com/scl/fi/quey4nnf41249gpxk2u14/canal-infantil.jpg?rlkey=nlgxwp78pqffqd6ppl8zsf2o0&dl=1", Canal Infantil
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
-http://cdn.sensa.com.ar/live/sta01/CanalInfantil/live_dash_cld/CanalInfantil.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
-
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-KODIPROP:inputstream.adaptive.license_key=0c7cb1ff69ab931bc2348f2e00381544:e89139fc667b4e306f1accb3db40a584
-#EXTINF:-1 tvg-id="T5Satelital" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/T5SAT.png?raw=true", T5 Satelital
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
-https://cdn.sensa.com.ar/bpk-tv/T5Satelital/default/index.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP: flujo de entrada. clave de licencia adaptable=39673983f4ba22f0f80c0934ce0424c8:cd9f3498cb63cc72d1317b14a67ab93c
-#EXTINF:-1 group-title="Infantil" ch-number="201" tvg-id="CanalInfantil" tvg-logo="https://dl.dropbox.com/scl/fi/quey4nnf41249gpxk2u14/canal-infantil.jpg?rlkey=nlgxwp78pqffqd6ppl8zsf2o0&dl=1", Canal Infantil
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
-http://cdn.sensa.com.ar/live/sta01/CanalInfantil/live_dash_cld/CanalInfantil.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=cc8c82ac2ec7e9799527c29db7354e81:cc4aae173dd2ef17ae26be3f7ae87662
@@ -297,33 +279,6 @@ https://cdn.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_Live_dash_enc/FoxSports2HD.
 #EXTINF:-1 ch-number="113" tvg-id="FoxSports3Panregional.us" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/FXSP3.png?raw=true" group-title="Deportes", FOX Sports 3
 https://cdn.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_Live_dash_enc/FoxSports3HD.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/multiple_key.php?data=Wwp7CiJrZXkiOiI3YWY0MDQxNzNiMWNiYjcyNTkzNGU0NzI1YTI3NGI5YyIsCiJrZXlfaWQiOiJiY2FiYzBmYmE5MTI0MzNmYjEyZjQwNTQyNzgzYzcyNiIKfSwgewoia2V5IjoiMTNmN2MyZGE1NmU0NDFmZjk3YWE2OThkNWFhYTQxYzQiLAoia2V5X2lkIjoiMDA1ZGFkMmQ4YmE1M2YyNzhiZWE3MmQyNGRhMTllYjUiCn0KXQ==
-#EXTINF:-1 group-title="Deportes" ch-number="114" tvg-id="dsports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DirecTV-Sports.png", D Sports (ARG)
-#EXTVLCOPT:http-origin=android_mobile.directvgo.com
-#EXTVLCOPT:http-user-agent=dgo/4.48.0 (Android; Android 7.1.2; Asus; ASUS_Z01QD) ExoPlayer/2.19.1
-http://m.mtd.llc:8880/CH0100000000021/index.mpd?|origin=android_mobile.directvgo.com
-
-#EXTINF:-1 group-title="Deportes" ch-number="115" tvg-id="dsports2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DirecTV-Sports.png", D Sports 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/multiple_key.php?data=Wwp7CiJrZXkiOiI3MDU5NzFiNzA5YzcwOTM2MjFiNTU4Y2Y5NDMyMGQ4NyIsCiJrZXlfaWQiOiI4Y2NmNDVhNGE2NjE0MTRlYWExMDgzOTNlMjVkZDI2ZiIKfSwgewoia2V5IjoiYWY0YmEzMWMxMzI0ZWI5MmFjODg0NjNmN2JkOTQxZDUiLAoia2V5X2lkIjoiYzQ0ZDUyYjExZGNlMzg3NWFkMjc2NWM5ZDQ2OTA3NWIiCn0KXQ==
-#EXTVLCOPT:http-origin=android_mobile.directvgo.com
-#EXTVLCOPT:http-user-agent=dgo/4.48.0 (Android; Android 7.1.2; Asus; ASUS_Z01QD) ExoPlayer/2.19.1
-http://m.mtd.llc:8880/CH0100000000128/index.mpd?|origin=android_mobile.directvgo.com
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"dbskbhEGQVe1urIqeZ0piQ","k":"xJjyqXjCPyQLGPsXH9FQyA"},{"kty":"oct","kid":"8Zw6jGONUsKrd7lWa8splg","k":"dACp-QXxctXXTX3EQHJMjg"}],"type":"temporary"}
-#EXTINF:-1 group-title="Deportes" ch-number="116" tvg-id="dsports+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DirecTV-Sports.png", D Sports +
-#EXTVLCOPT:http-origin=android_mobile.directvgo.com
-#EXTVLCOPT:http-user-agent=dgo/4.48.0 (Android; Android 7.1.2; Asus; ASUS_Z01QD) ExoPlayer/2.19.1
-http://m.mtd.llc:8880/CH0100000000139/index.mpd?|User-Agent=dgo/4.48.0 (Android; Android 7.1.2; Asus; ASUS_Z01QD) ExoPlayer/2.19.1|Origin=android_mobile.directvgo.com
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"NrLGt3NqWQG_QIkWpFSr-Q","k":"m9fsG6gCpxZO2sqkk8I0fA"}],"type":"temporary"}
-#EXTINF:-1 group-title="Deportes" ch-number="117" tvg-id="" tvg-name="" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMzAyX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png" group-title="Deportes", DSports Fight
-#EXTVLCOPT:http-origin=android_mobile.directvgo.com
-#EXTVLCOPT:http-user-agent=dgo/4.48.0 (Android; Android 7.1.2; Asus; ASUS_Z01QD) ExoPlayer/2.19.1
-http://m.mtd.llc:8880/CH0100000000302/index.mpd?|Origin=android_mobile.directvgo.com
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a0aa01337a2148bda1e21862295ae037:fee0f87a0527497351fc54ce36ad1de2
@@ -360,8 +315,6 @@ https://cdn.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_
 #EXTINF:-1 ch-number="124" tvg-id="TNT SPORTS HD.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TNTSP.png?raw=true" group-title="Deportes", TNT Sports
 https://cdn.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc/TNT_Sports_HD.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
-#EXTINF:-1 group-title="Deportes" ch-number="125" tvg-id="GOL TV HD.cl" tvg-logo="https://dl.dropbox.com/scl/fi/b5vv58w3mdjkopsb9edhy/goltv.jpg?rlkey=digisjr7amuf7j7xudugbe3m4&dl=1", Gol TV
-http://45.189.108.146:1935/xmp_trans/goltv.stream/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"vmvJHheBb2fmJZa+1GPFrQ","kid":"k5MyHa7xRj/H4uBgKY24Ug"}],"type":"temporary"}
