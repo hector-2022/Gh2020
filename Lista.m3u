@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.net/profile/0006/simpson_maniahd189.jpg"group-title=",SIMPSON_MANIAHD193
-https://stream-cdn-iad3.vaughnsoft.net/play/live_simpson_maniahd193.flv?android_vs.ts.m3u8User-Agent=Roku/DVP(10.10.10)
+https://stream-cdn-iad3.vaughnsoft.net/play/live_simpson_maniahd193.flv
 
 #EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.net/profile/0006/simpson_maniahd189.jpg"group-title=", NEFLIX_01
 https://stream-cdn-iad3.vaughnsoft.net/play/live_a_neflix01.flv
