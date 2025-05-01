@@ -1,0 +1,209 @@
+#EXTM3U
+#EXTINF:0 CUID="1" tvg-name="Cana 26" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/LogoCanal26.png/900px-LogoCanal26.png" group-title="ðŸ‡¦ðŸ‡· Argentina",Cana 26
+http://181.209.114.13:8000/play/a01r/index.m3u8
+#EXTINF:0 CUID="2" tvg-name="A24" tvg-logo="https://logo.iptveditor.com/a24.png" group-title="ðŸ‡¦ðŸ‡· Argentina",A24
+http://181.209.114.13:8000/play/a01o/index.m3u8
+#EXTINF:0 CUID="3" tvg-name="America TV HD" tvg-logo="https://logo.iptveditor.com/americatv.png" group-title="ðŸ‡¦ðŸ‡· Argentina",America TV HD
+http://181.209.114.13:8000/play/a055/index.m3u8
+#EXTINF:0 CUID="4" tvg-name="C5N" tvg-logo="https://logo.iptveditor.com/c5n.png" group-title="ðŸ‡¦ðŸ‡· Argentina",C5N
+http://181.209.114.13:8000/play/a01p/index.m3u8
+#EXTINF:0 CUID="5" tvg-name="Canal A" tvg-logo="https://logo.iptveditor.com/canala.png" group-title="ðŸ‡¦ðŸ‡· Argentina",Canal A
+http://181.209.114.13:8000/play/a09j/index.m3u8
+#EXTINF:0 CUID="6" tvg-name="Canal de la Ciudad" tvg-logo="https://logo.iptveditor.com/canallaciudad.png" group-title="ðŸ‡¦ðŸ‡· Argentina",Canal de la Ciudad
+http://181.209.114.13:8000/play/a06e/index.m3u8
+#EXTINF:0 CUID="7" tvg-name="Ciudad Magazine" tvg-logo="https://logo.iptveditor.com/ciudadmagazine.png" group-title="ðŸ‡¦ðŸ‡· Argentina",Ciudad Magazine
+http://181.209.114.13:8000/play/a02h/index.m3u8
+#EXTINF:0 CUID="8" tvg-name="Cronica" tvg-logo="https://logo.iptveditor.com/cronica.png" group-title="ðŸ‡¦ðŸ‡· Argentina",Cronica
+http://181.209.114.13:8000/play/a01q/index.m3u8
+#EXTINF:0 CUID="9" tvg-name="El Nueve HD" tvg-logo="https://logo.iptveditor.com/elnueve.png" group-title="ðŸ‡¦ðŸ‡· Argentina",El Nueve HD
+http://181.209.95.29:8000/play/a0a9/index.m3u8
+#EXTINF:0 CUID="27926" tvg-name="El Nueve HD Op2" tvg-logo="https://logo.iptveditor.com/elnueve.png" group-title="ðŸ‡¦ðŸ‡· Argentina",El Nueve HD Op2
+http://181.209.114.13:8000/play/a04h/index.m3u8
+#EXTINF:0 CUID="27925" tvg-name="El Trece HD Op2" tvg-logo="https://logo.iptveditor.com/eltrece.png" group-title="ðŸ‡¦ðŸ‡· Argentina",El Trece HD Op2
+http://181.209.114.13:8000/play/a06d/index.m3u8
+#EXTINF:0 CUID="11" tvg-name="Encuentro" tvg-logo="https://logo.iptveditor.com/encuentro.png" group-title="ðŸ‡¦ðŸ‡· Argentina",Encuentro
+http://181.209.114.13:8000/play/a01m/index.m3u8
+#EXTINF:0 CUID="12" tvg-name="La Nacion TV" tvg-logo="https://logo.iptveditor.com/lanacion+.png" group-title="ðŸ‡¦ðŸ‡· Argentina",La Nacion TV
+http://181.209.114.13:8000/play/a01s/index.m3u8
+#EXTINF:0 CUID="13" tvg-name="Metro" tvg-logo="https://logo.iptveditor.com/metro.png" group-title="ðŸ‡¦ðŸ‡· Argentina",Metro
+http://181.209.114.13:8000/play/a02g/index.m3u8
+#EXTINF:0 CUID="14" tvg-name="Rural" tvg-logo="https://logo.iptveditor.com/elrural.png" group-title="ðŸ‡¦ðŸ‡· Argentina",Rural
+http://181.209.114.13:8000/play/a02f/index.m3u8
+#EXTINF:0 CUID="15" tvg-name="TN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/TN_todo_noticias_logo.svg" group-title="ðŸ‡¦ðŸ‡· Argentina",TN HD
+http://181.13.173.86:8000/play/a0ap/index.m3u8
+#EXTINF:0 CUID="27923" tvg-name="TN HD Op2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/TN_todo_noticias_logo.svg" group-title="ðŸ‡¦ðŸ‡· Argentina",TN HD Op2
+http://181.209.114.13:8000/play/a058/index.m3u8
+#EXTINF:0 CUID="16" tvg-name="TV Publica HD" tvg-logo="https://logo.iptveditor.com/tvpublica.png" group-title="ðŸ‡¦ðŸ‡· Argentina",TV Publica HD
+http://181.209.114.13:8000/play/a056/index.m3u8
+#EXTINF:0 CUID="17" tvg-name="Telefe HD" tvg-logo="https://logo.iptveditor.com/telefe.png" group-title="ðŸ‡¦ðŸ‡· Argentina",Telefe HD
+http://181.209.114.13:8000/play/a06c/index.m3u8
+#EXTINF:0 CUID="18404" tvg-name="IP Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/IP_Noticias_%28Informaci%C3%B3n_Period%C3%ADstica%29_Logo.png/900px-IP_Noticias_%28Informaci%C3%B3n_Period%C3%ADstica%29_Logo.png" group-title="ðŸ‡¦ðŸ‡· Argentina",IP Noticias
+http://181.78.27.128:8000/play/a055/index.m3u8
+#EXTINF:0 CUID="27924" tvg-name="DNews" tvg-logo="https://telecentro.com.ar/img/cm/channels/DNEWS%20128.png" group-title="ðŸ‡¦ðŸ‡· Argentina",DNews
+http://45.230.38.117:8000/play/a02n
+#EXTINF:0 CUID="27927" tvg-name="Bragado TV" tvg-logo="https://pbs.twimg.com/profile_images/461996477468778496/01djHylv.jpeg" group-title="ðŸ‡¦ðŸ‡· Argentina",Bragado TV
+https://inliveserver.com:1936/12000/12000/playlist.m3u8
+#EXTINF:0 CUID="27928" tvg-name="TierramiaTV" tvg-logo="https://www.5900.tv/wp-content/uploads/2022/02/terramiatvok.jpg" group-title="ðŸ‡¦ðŸ‡· Argentina",TierramiaTV
+https://stream-gtlc.telecentro.net.ar/hls/tierramiahls/0/playlist.m3u8
+#EXTINF:0 CUID="50" tvg-name="ESPN Premium  Op2" tvg-logo="https://logo.iptveditor.com/espnpremium.png" group-title="ðŸ‡¦ðŸ‡· Pack FÃºtbol",ESPN Premium  Op2
+http://181.13.173.86:8000/play/a078/index.m3u8
+#EXTINF:0 CUID="51" tvg-name="TNT Sports Premium Argentina  Op2" tvg-logo="https://logo.iptveditor.com/tntsportspremium.png" group-title="ðŸ‡¦ðŸ‡· Pack FÃºtbol",TNT Sports Premium Argentina  Op2
+http://181.13.173.86:8000/play/a02u/index.m3u8
+#EXTINF:0 CUID="52" tvg-name="TyC Sports Op2" tvg-logo="https://logo.iptveditor.com/tycsports.png" group-title="ðŸ‡¦ðŸ‡· Pack FÃºtbol",TyC Sports Op2
+http://181.13.173.86:8000/play/a02s/index.m3u8
+#EXTINF:0 CUID="53" tvg-name="TyC Sports Internacional 2" tvg-logo="https://logo.iptveditor.com/rtpinternacional.png" group-title="ðŸ‡¦ðŸ‡· Pack FÃºtbol",TyC Sports Internacional 2
+http://181.13.173.86:8000/play/a02s/index.m3u8
+#EXTINF:0 CUID="18" tvg-name="A&E HD" tvg-logo="https://logo.iptveditor.com/ae.png" group-title="ðŸŽžï¸ Cine, Novelas y Series",A&E HD
+http://181.209.114.13:8000/play/a05i/index.m3u8
+#EXTINF:0 CUID="19" tvg-name="AMC" tvg-logo="https://logo.iptveditor.com/amc.png" group-title="ðŸŽžï¸ Cine, Novelas y Series",AMC
+http://181.209.114.13:8000/play/a01z/index.m3u8
+#EXTINF:0 CUID="20" tvg-name="AXN HD" tvg-logo="https://logo.iptveditor.com/axn.png" group-title="ðŸŽžï¸ Cine, Novelas y Series",AXN HD
+http://181.209.114.13:8000/play/a05f/index.m3u8
+#EXTINF:0 CUID="21" tvg-name="Cine.AR" tvg-logo="https://logo.iptveditor.com/cine.png" group-title="ðŸŽžï¸ Cine, Novelas y Series",Cine.AR
+http://181.209.114.13:8000/play/a024/index.m3u8
+#EXTINF:0 CUID="22" tvg-name="Cinecanal HD" tvg-logo="https://logo.iptveditor.com/cinecanal.png" group-title="ðŸŽžï¸ Cine, Novelas y Series",Cinecanal HD
+http://181.209.114.13:8000/play/a07b/index.m3u8
+#EXTINF:0 CUID="23" tvg-name="Cinemax" tvg-logo="https://logo.iptveditor.com/cinemax.png" group-title="ðŸŽžï¸ Cine, Novelas y Series",Cinemax
+http://181.209.114.13:8000/play/a04s/index.m3u8
+#EXTINF:0 CUID="24" tvg-name="Comedy Central HD" tvg-logo="https://logo.iptveditor.com/comedycentral.png" group-title="ðŸŽžï¸ Cine, Novelas y Series",Comedy Central HD
+http://181.209.114.13:8000/play/a02x/index.m3u8
+#EXTINF:0 CUID="25" tvg-name="Europa Europa" tvg-logo="https://logo.iptveditor.com/europaeuropa.png" group-title="ðŸŽžï¸ Cine, Novelas y Series",Europa Europa
+http://181.209.114.13:8000/play/a06v/index.m3u8
+#EXTINF:0 CUID="26" tvg-name="FX HD" tvg-logo="https://logo.iptveditor.com/fx.png" group-title="ðŸŽžï¸ Cine, Novelas y Series",FX HD
+http://181.209.114.13:8000/play/a02v/index.m3u8
+#EXTINF:0 CUID="27" tvg-name="HBO" tvg-logo="https://logo.iptveditor.com/hbo.png" group-title="ðŸŽžï¸ Cine, Novelas y Series",HBO
+http://181.209.114.13:8000/play/a06o/index.m3u8
+#EXTINF:0 CUID="28" tvg-name="HBO 2" tvg-logo="https://logo.iptveditor.com/hbo2.png" group-title="ðŸŽžï¸ Cine, Novelas y Series",HBO 2
+http://181.209.114.13:8000/play/a06q/index.m3u8
+#EXTINF:0 CUID="29" tvg-name="HBO Family" tvg-logo="https://logo.iptveditor.com/hbofamily.png" group-title="ðŸŽžï¸ Cine, Novelas y Series",HBO Family
+http://181.209.114.13:8000/play/a06r/index.m3u8
+#EXTINF:0 CUID="30" tvg-name="HBO Mundi" tvg-logo="https://logo.iptveditor.com/hbomundi.png" group-title="ðŸŽžï¸ Cine, Novelas y Series",HBO Mundi
+http://181.209.114.13:8000/play/a02a/index.m3u8
+#EXTINF:0 CUID="31" tvg-name="HBO POP" tvg-logo="https://logo.iptveditor.com/hbopop.png" group-title="ðŸŽžï¸ Cine, Novelas y Series",HBO POP
+http://181.209.114.13:8000/play/a09m/index.m3u8
+#EXTINF:0 CUID="32" tvg-name="HBO Plus" tvg-logo="https://logo.iptveditor.com/hboplus.png" group-title="ðŸŽžï¸ Cine, Novelas y Series",HBO Plus
+http://181.209.114.13:8000/play/a06p/index.m3u8
+#EXTINF:0 CUID="33" tvg-name="HBO Signature" tvg-logo="https://logo.iptveditor.com/hbosignature.png" group-title="ðŸŽžï¸ Cine, Novelas y Series",HBO Signature
+http://181.209.114.13:8000/play/a02c/index.m3u8
+#EXTINF:0 CUID="34" tvg-name="HBO Xtreme" tvg-logo="https://logo.iptveditor.com/hboxtreme.png" group-title="ðŸŽžï¸ Cine, Novelas y Series",HBO Xtreme
+http://181.209.114.13:8000/play/a02b/index.m3u8
+#EXTINF:0 CUID="35" tvg-name="Paramount HD" tvg-logo="https://logo.iptveditor.com/paramount.png" group-title="ðŸŽžï¸ Cine, Novelas y Series",Paramount HD
+http://181.209.114.13:8000/play/a02y/index.m3u8
+#EXTINF:0 CUID="36" tvg-name="Sony HD" tvg-logo="https://logo.iptveditor.com/sony.png" group-title="ðŸŽžï¸ Cine, Novelas y Series",Sony HD
+http://181.209.114.13:8000/play/a05d/index.m3u8
+#EXTINF:0 CUID="37" tvg-name="Sony Movies HD" tvg-logo="https://logo.iptveditor.com/sonymovies.png" group-title="ðŸŽžï¸ Cine, Novelas y Series",Sony Movies HD
+http://181.209.114.13:8000/play/a05k/index.m3u8
+#EXTINF:0 CUID="38" tvg-name="Space HD" tvg-logo="https://logo.iptveditor.com/space.png" group-title="ðŸŽžï¸ Cine, Novelas y Series",Space HD
+http://181.209.114.13:8000/play/a02w/index.m3u8
+#EXTINF:0 CUID="39" tvg-name="Star Channel HD" tvg-logo="https://logo.iptveditor.com/starchannel.png" group-title="ðŸŽžï¸ Cine, Novelas y Series",Star Channel HD
+http://181.209.114.13:8000/play/a079/index.m3u8
+#EXTINF:0 CUID="40" tvg-name="Studio Universal" tvg-logo="https://logo.iptveditor.com/studiouniversal.png" group-title="ðŸŽžï¸ Cine, Novelas y Series",Studio Universal
+http://181.209.114.13:8000/play/a022/index.m3u8
+#EXTINF:0 CUID="41" tvg-name="TCM" tvg-logo="https://logo.iptveditor.com/tcm.png" group-title="ðŸŽžï¸ Cine, Novelas y Series",TCM
+http://181.209.114.13:8000/play/a020/index.m3u8
+#EXTINF:0 CUID="42" tvg-name="TLNovelas" tvg-logo="https://logo.iptveditor.com/tlnovelas.png" group-title="ðŸŽžï¸ Cine, Novelas y Series",TLNovelas
+http://181.209.114.13:8000/play/a09v/index.m3u8
+#EXTINF:0 CUID="43" tvg-name="TNT HD" tvg-logo="https://logo.iptveditor.com/tnt.png" group-title="ðŸŽžï¸ Cine, Novelas y Series",TNT HD
+http://181.209.114.13:8000/play/a07d/index.m3u8
+#EXTINF:0 CUID="44" tvg-name="TNT Novelas HD" tvg-logo="https://logo.iptveditor.com/tntnovelas.png" group-title="ðŸŽžï¸ Cine, Novelas y Series",TNT Novelas HD
+http://181.209.114.13:8000/play/a07g/index.m3u8
+#EXTINF:0 CUID="45" tvg-name="TNT Series HD" tvg-logo="https://logo.iptveditor.com/tntseries.png" group-title="ðŸŽžï¸ Cine, Novelas y Series",TNT Series HD
+http://181.209.114.13:8000/play/a07e/index.m3u8
+#EXTINF:0 CUID="46" tvg-name="USA Network" tvg-logo="https://logo.iptveditor.com/network.png" group-title="ðŸŽžï¸ Cine, Novelas y Series",USA Network
+http://181.209.114.13:8000/play/a023/index.m3u8
+#EXTINF:0 CUID="47" tvg-name="Universal HD" tvg-logo="https://logo.iptveditor.com/universal.png" group-title="ðŸŽžï¸ Cine, Novelas y Series",Universal HD
+http://181.209.114.13:8000/play/a05j/index.m3u8
+#EXTINF:0 CUID="48" tvg-name="Volver" tvg-logo="https://logo.iptveditor.com/volver.png" group-title="ðŸŽžï¸ Cine, Novelas y Series",Volver
+http://181.209.114.13:8000/play/a021/index.m3u8
+#EXTINF:0 CUID="49" tvg-name="Warner Channel HD" tvg-logo="https://logo.iptveditor.com/warnerchannel.png" group-title="ðŸŽžï¸ Cine, Novelas y Series",Warner Channel HD
+http://181.209.114.13:8000/play/a05e/index.m3u8
+#EXTINF:0 CUID="54" tvg-name="AM Sports" tvg-logo="https://logo.iptveditor.com/amsports.png" group-title="âš½Deportes",AM Sports
+http://181.209.114.13:8000/play/a01v/index.m3u8
+#EXTINF:0 CUID="55" tvg-name="DeporTV" tvg-logo="https://logo.iptveditor.com/deportv.png" group-title="âš½Deportes",DeporTV
+http://181.209.114.13:8000/play/a06h/index.m3u8
+#EXTINF:0 CUID="56" tvg-name="Fox Sports Argentina Op2" tvg-logo="https://logo.iptveditor.com/foxsports.png" group-title="âš½Deportes",Fox Sports Argentina Op2
+http://181.13.173.86:8000/play/a07j/index.m3u8
+#EXTINF:0 CUID="57" tvg-name="Fox Sports 2 Argentina Op2" tvg-logo="https://logo.iptveditor.com/foxsports2.png" group-title="âš½Deportes",Fox Sports 2 Argentina Op2
+http://181.13.173.86:8000/play/a0ai/index.m3u8
+#EXTINF:0 CUID="58" tvg-name="Fox Sports 3 Argentina  Op2" tvg-logo="https://logo.iptveditor.com/foxsports3.png" group-title="âš½Deportes",Fox Sports 3 Argentina  Op2
+http://181.13.173.86:8000/play/a02t/index.m3u8
+#EXTINF:0 CUID="62" tvg-name="TNT Sports Premium argentina" tvg-logo="https://logo.iptveditor.com/tntsportspremium.png" group-title="âš½Deportes",TNT Sports Premium argentina
+http://181.13.173.86:8000/play/a02u/index.m3u8
+#EXTINF:0 CUID="64" tvg-name="ESPN Premium" tvg-logo="https://logo.iptveditor.com/espnpremium.png" group-title="âš½Deportes",ESPN Premium
+http://181.13.173.86:8000/play/a078/index.m3u8
+#EXTINF:0 CUID="117" tvg-name="Baby TV" tvg-logo="https://logo.iptveditor.com/babytv.png" group-title="ðŸ§’ðŸ¼ Infantiles",Baby TV
+http://181.209.114.13:8000/play/a02e/index.m3u8
+#EXTINF:0 CUID="118" tvg-name="Cartoon Network HD" tvg-logo="https://logo.iptveditor.com/cartoonnetwork.png" group-title="ðŸ§’ðŸ¼ Infantiles",Cartoon Network HD
+http://181.209.114.13:8000/play/a075/index.m3u8
+#EXTINF:0 CUID="119" tvg-name="Discovery Kids" tvg-logo="https://logo.iptveditor.com/discoverykids.png" group-title="ðŸ§’ðŸ¼ Infantiles",Discovery Kids
+http://181.209.114.13:8000/play/a06t/index.m3u8
+#EXTINF:0 CUID="120" tvg-name="Disney Channel HD" tvg-logo="https://logo.iptveditor.com/disneychannel.png" group-title="ðŸ§’ðŸ¼ Infantiles",Disney Channel HD
+http://181.209.114.13:8000/play/a02r/index.m3u8
+#EXTINF:0 CUID="121" tvg-name="Disney Junior" tvg-logo="https://logo.iptveditor.com/disneyjunior.png" group-title="ðŸ§’ðŸ¼ Infantiles",Disney Junior
+http://181.209.114.13:8000/play/a04y/index.m3u8
+#EXTINF:0 CUID="122" tvg-name="Nick Jr" tvg-logo="https://logo.iptveditor.com/nickjr.png" group-title="ðŸ§’ðŸ¼ Infantiles",Nick Jr
+http://181.209.114.13:8000/play/a06u/index.m3u8
+#EXTINF:0 CUID="123" tvg-name="Nickelodeon" tvg-logo="https://logo.iptveditor.com/nickelodeon.png" group-title="ðŸ§’ðŸ¼ Infantiles",Nickelodeon
+http://181.209.114.13:8000/play/a04z/index.m3u8
+#EXTINF:0 CUID="124" tvg-name="Pakapaka" tvg-logo="https://logo.iptveditor.com/pakapaka.png" group-title="ðŸ§’ðŸ¼ Infantiles",Pakapaka
+http://181.209.114.13:8000/play/a01n/index.m3u8
+#EXTINF:0 CUID="125" tvg-name="CNN en EspaÃ¦ol" tvg-logo="https://logo.iptveditor.com/cnnenespaol.png" group-title="ðŸŸªVariedades",CNN en EspaÃ¦ol
+http://181.209.114.13:8000/play/a054/index.m3u8
+#EXTINF:0 CUID="126" tvg-name="Discovery Channel HD" tvg-logo="https://logo.iptveditor.com/discoverychannel.png" group-title="ðŸŸªVariedades",Discovery Channel HD
+http://181.209.114.13:8000/play/a07i/index.m3u8
+#EXTINF:0 CUID="127" tvg-name="Discovery H&H HD" tvg-logo="https://logo.iptveditor.com/discovery.png" group-title="ðŸŸªVariedades",Discovery H&H HD
+http://181.209.114.13:8000/play/a07h/index.m3u8
+#EXTINF:0 CUID="128" tvg-name="Discovery Science" tvg-logo="https://logo.iptveditor.com/discoveryscience.png" group-title="ðŸŸªVariedades",Discovery Science
+http://181.209.114.13:8000/play/a02k/index.m3u8
+#EXTINF:0 CUID="129" tvg-name="Discovery Theater HD" tvg-logo="https://logo.iptveditor.com/discoverytheater.png" group-title="ðŸŸªVariedades",Discovery Theater HD
+http://181.209.114.13:8000/play/a02z/index.m3u8
+#EXTINF:0 CUID="130" tvg-name="Discovery Turbo" tvg-logo="https://logo.iptveditor.com/discoveryturbo.png" group-title="ðŸŸªVariedades",Discovery Turbo
+http://181.209.114.13:8000/play/a01w/index.m3u8
+#EXTINF:0 CUID="131" tvg-name="Discovery World HD" tvg-logo="https://logo.iptveditor.com/discoveryworld.png" group-title="ðŸŸªVariedades",Discovery World HD
+http://181.209.114.13:8000/play/a031/index.m3u8
+#EXTINF:0 CUID="132" tvg-name="E! Entertainment" tvg-logo="https://logo.iptveditor.com/eentertainment.png" group-title="ðŸŸªVariedades",E! Entertainment
+http://181.209.114.13:8000/play/a050/index.m3u8
+#EXTINF:0 CUID="133" tvg-name="El Canal  de las Estrellas" tvg-logo="https://logo.iptveditor.com/canallasestrellas.png" group-title="ðŸŸªVariedades",El Canal  de las Estrellas
+http://181.209.114.13:8000/play/a06z/index.m3u8
+#EXTINF:0 CUID="134" tvg-name="El Gourmet" tvg-logo="https://logo.iptveditor.com/elgourmet.png" group-title="ðŸŸªVariedades",El Gourmet
+http://181.209.114.13:8000/play/a06w/index.m3u8
+#EXTINF:0 CUID="135" tvg-name="Film & Arts HD" tvg-logo="https://logo.iptveditor.com/filmarts.png" group-title="ðŸŸªVariedades",Film & Arts HD
+http://181.209.114.13:8000/play/a030/index.m3u8
+#EXTINF:0 CUID="136" tvg-name="HGTV" tvg-logo="https://logo.iptveditor.com/hgtv.png" group-title="ðŸŸªVariedades",HGTV
+http://181.209.114.13:8000/play/a02j/index.m3u8
+#EXTINF:0 CUID="137" tvg-name="The History Channel HD" tvg-logo="https://logo.iptveditor.com/thehistorychannel.png" group-title="ðŸŸªVariedades",The History Channel HD
+http://181.209.114.13:8000/play/a05h/index.m3u8
+#EXTINF:0 CUID="138" tvg-name="History Channel" tvg-logo="https://logo.iptveditor.com/historychannel.png" group-title="ðŸŸªVariedades",History Channel
+http://181.209.114.13:8000/play/a051/index.m3u8
+#EXTINF:0 CUID="139" tvg-name="Lifetime" tvg-logo="https://logo.iptveditor.com/lifetime.png" group-title="ðŸŸªVariedades",Lifetime
+http://181.209.114.13:8000/play/a06n/index.m3u8
+#EXTINF:0 CUID="140" tvg-name="Nat Geo HD" tvg-logo="https://logo.iptveditor.com/natgeo.png" group-title="ðŸŸªVariedades",Nat Geo HD
+http://181.209.114.13:8000/play/a05g/index.m3u8
+#EXTINF:0 CUID="141" tvg-name="RAI Italia" tvg-logo="https://logo.iptveditor.com/raiitalia.png" group-title="ðŸŸªVariedades",RAI Italia
+http://181.209.114.13:8000/play/a02p/index.m3u8
+#EXTINF:0 CUID="142" tvg-name="TVE" tvg-logo="https://logo.iptveditor.com/tve.png" group-title="ðŸŸªVariedades",TVE
+http://181.209.114.13:8000/play/a072/index.m3u8
+#EXTINF:0 CUID="143" tvg-name="HTV" tvg-logo="https://logo.iptveditor.com/htv.png" group-title="ðŸŽ¸ MÃºsica",HTV
+http://181.209.114.13:8000/play/a02o/index.m3u8
+#EXTINF:0 CUID="144" tvg-name="MTV" tvg-logo="https://logo.iptveditor.com/mtv.png" group-title="ðŸŽ¸ MÃºsica",MTV
+http://181.209.114.13:8000/play/a02m/index.m3u8
+#EXTINF:0 CUID="145" tvg-name="MTVÃƒâ€”00" tvg-logo="https://logo.iptveditor.com/mtv00s.png" group-title="ðŸŽ¸ MÃºsica",MTVÃƒâ€”00
+http://181.209.114.13:8000/play/a053/index.m3u8
+#EXTINF:0 CUID="146" tvg-name="Quiero Musica" group-title="ðŸŽ¸ MÃºsica",Quiero Musica
+http://181.209.114.13:8000/play/a02n/index.m3u8
+#EXTINF:0 CUID="18123" tvg-name="HBO" tvg-logo="https://logo.iptveditor.com/hbo.png" group-title="ðŸŸ Pack HBO",HBO
+http://181.209.114.13:8000/play/a06o/index.m3u8
+#EXTINF:0 CUID="18124" tvg-name="HBO 2" tvg-logo="https://logo.iptveditor.com/hbo2.png" group-title="ðŸŸ Pack HBO",HBO 2
+http://181.209.114.13:8000/play/a06q/index.m3u8
+#EXTINF:0 CUID="18125" tvg-name="HBO Family" tvg-logo="https://logo.iptveditor.com/hbofamily.png" group-title="ðŸŸ Pack HBO",HBO Family
+http://181.209.114.13:8000/play/a06r/index.m3u8
+#EXTINF:0 CUID="18126" tvg-name="HBO Signature HD" tvg-logo="https://logo.iptveditor.com/hbosignature.png" group-title="ðŸŸ Pack HBO",HBO Signature HD
+http://181.13.173.86:8000/play/a02c/index.m3u8
+#EXTINF:0 CUID="18127" tvg-name="HBO Plus" tvg-logo="https://logo.iptveditor.com/hboplus.png" group-title="ðŸŸ Pack HBO",HBO Plus
+http://181.209.114.13:8000/play/a06p/index.m3u8
+#EXTINF:0 CUID="18128" tvg-name="HBO Mundi" tvg-logo="https://logo.iptveditor.com/hbomundi.png" group-title="ðŸŸ Pack HBO",HBO Mundi
+http://181.13.173.86:8000/play/a02a/index.m3u8
+#EXTINF:0 CUID="18129" tvg-name="HBO Xtreme" tvg-logo="https://logo.iptveditor.com/hboxtreme.png" group-title="ðŸŸ Pack HBO",HBO Xtreme
+http://181.13.173.86:8000/play/a02b/index.m3u8
+#EXTINF:0 CUID="18130" tvg-name="HBO Pop" tvg-logo="https://logo.iptveditor.com/hbopop.png" group-title="ðŸŸ Pack HBO",HBO Pop
+http://181.176.153.106:8090/play/a0qc/index.m3u8
