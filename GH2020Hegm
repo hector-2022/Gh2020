@@ -1,4 +1,23 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.net/profile/0006/simpson_maniahd189.jpg"group-title=",SIMPSON_MANIAHD193
+https://stream-cdn-iad3.vaughnsoft.net/play/live_simpson_maniahd193.flv
+
+#EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.net/profile/0006/simpson_maniahd189.jpg"group-title=", NEFLIX_01
+https://stream-cdn-iad3.vaughnsoft.net/play/live_a_neflix01.flv
+
+#EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.net/profile/0006/simpson_maniahd189.jpg"group-title=",  TERROR_MANIA
+https://stream-cdn-iad3.vaughnsoft.net/play/live_terror_mania.flv
+
+#EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.net/profile/0006/simpson_maniahd189.jpg"group-title=", BETO_7HD
+https://stream-cdn-iad3.vaughnsoft.net/play/live_beto_7hd.flv
+
+#EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.net/profile/0006/simpson_maniahd189.jpg"group-title=", ZONAFILMSTV
+https://stream-cdn-iad3.vaughnsoft.net/play/live_zonafilmstv.flv
+
+#EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.net/profile/0006/simpson_maniahd189.jpg"group-title=",  GOKU TV
+https://stream-cdn-iad3.vaughnsoft.net/play/live_goku_tv_oficial.flv
+
 #EXTINF:-1, TRECE MAX
 http://181.209.95.29:8000/play/a0b6/index.m3u8
 #EXTINF:-1, T5 SATELITAL
