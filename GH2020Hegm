@@ -20,14 +20,10 @@ https://stream-cdn-iad3.vaughnsoft.net/play/live_goku_tv_oficial.flv
 
 #EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.net/profile/0006/simpson_maniahd189.jpg"group-title=",  JUANCINE
 https://stream-cdn-iad3.vaughnsoft.net/play/live_juancine_tv.flv
+#EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.net/profile/0006/simpson_maniahd189.jpg"group-title=",  CINE NINO
+https://stream-cdn-iad3.vaughnsoft.net/play/live_ninojack.flv
 
 
-#EXTINF:-1, TRECE MAX
-http://181.209.95.29:8000/play/a0b6/index.m3u8
-#EXTINF:-1, T5 SATELITAL
-http://181.209.95.29:8000/play/a0b9/index.m3u8
-#EXTINF:-1, TELEFE
-http://181.209.95.29:8000/play/a06c/index.m3u8
 
 
 
@@ -47,8 +43,7 @@ http://181.209.114.13:8000/play/a06e/index.m3u8
 http://181.209.114.13:8000/play/a02h/index.m3u8
 #EXTINF:0 CUID="8" tvg-name="Cronica" tvg-logo="https://logo.iptveditor.com/cronica.png" group-title="ðŸ‡¦ðŸ‡· Argentina",Cronica
 http://181.209.114.13:8000/play/a01q/index.m3u8
-#EXTINF:0 CUID="9" tvg-name="El Nueve HD" tvg-logo="https://logo.iptveditor.com/elnueve.png" group-title="ðŸ‡¦ðŸ‡· Argentina",El Nueve HD
-http://181.209.95.29:8000/play/a0a9/index.m3u8
+
 #EXTINF:0 CUID="27926" tvg-name="El Nueve HD Op2" tvg-logo="https://logo.iptveditor.com/elnueve.png" group-title="ðŸ‡¦ðŸ‡· Argentina",El Nueve HD Op2
 http://181.209.114.13:8000/play/a04h/index.m3u8
 #EXTINF:0 CUID="27925" tvg-name="El Trece HD Op2" tvg-logo="https://logo.iptveditor.com/eltrece.png" group-title="ðŸ‡¦ðŸ‡· Argentina",El Trece HD Op2
