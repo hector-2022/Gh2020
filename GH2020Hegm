@@ -18,8 +18,19 @@ https://stream-cdn-iad3.vaughnsoft.net/play/live_zonafilmstv.flv
 #EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.net/profile/0006/simpson_maniahd189.jpg"group-title=",  GOKU TV
 https://stream-cdn-iad3.vaughnsoft.net/play/live_goku_tv_oficial.flv
 
+#EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.net/profile/0006/simpson_maniahd189.jpg"group-title=",  GOKU TV Latam
+https://stream-cdn-iad3.vaughnsoft.net/play/live_goku_tv_latam.flv
+
+#EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.net/profile/0006/simpson_maniahd189.jpg"group-title=",  TUFORTUNATV
+https://stream-cdn-iad3.vaughnsoft.net/play/live_tufortunatv.flv
+
+#EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.net/profile/0006/simpson_maniahd189.jpg"group-title=",  CRITICANDO_PELIS3
+https://stream-cdn-iad3.vaughnsoft.net/play/live_criticando_pelis3.flv
+
+
 #EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.net/profile/0006/simpson_maniahd189.jpg"group-title=",  JUANCINE
 https://stream-cdn-iad3.vaughnsoft.net/play/live_juancine_tv.flv
+
 #EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.net/profile/0006/simpson_maniahd189.jpg"group-title=",  CINE NINO
 https://stream-cdn-iad3.vaughnsoft.net/play/live_ninojack.flv
 
