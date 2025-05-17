@@ -35,6 +35,9 @@ https://stream-cdn-iad3.vaughnsoft.net/play/live_juancine_tv.flv
 https://stream-cdn-iad3.vaughnsoft.net/play/live_ninojack.flv
 
 
+
+
+
 #EXTM3U url-tvg="https://ett.re/franco_arg,https://ett.re/flowtv,https://www.open-epg.com/files/argentina4.xml.gz,https://www.open-epg.com/files/uruguay2.xml.gz"
 
 nacionales, aire y noticias
@@ -110,6 +113,15 @@ https://cdn.sensa.com.ar/bpk-tv/Canal12cba/default/index.mpd?|referer=https://pl
 #KODIPROP:inputstream.adaptive.license_key=e7b05c7a737b7f0a5d571b91deaa2697:4079ac205b544b1c294ee1568906ff58
 #EXTINF:-1  ch-number="13" tvg-id="el13" tvg-name="Canal 13.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/57/CH_LOGO/800/542/0/0/42552730073067.png" group-title="Argentina", El Trece
 https://cdn.sensa.com.ar/live/eds/Canal13/live_dash_cld/Canal13.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+#EXTINF:-1 group-logo="https://www.sensa.com.ar/images/logo_sensa_nav.png" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/57/CH_LOGO/160/160/0/0/42552730073067.png" group-title="..SENSA ARGENTINA",#️⃣ EL TRECE 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key=e7b05c7a737b7f0a5d571b91deaa2697:4079ac205b544b1c294ee1568906ff58 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 
+https://cdn.sensa.com.ar/live/eds/Canal13/live_dash_cld/Canal13.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+
+
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b5651806b42f087c58332b052de727c5:11901b35cc3e5aa73619f64d02c38a0f
