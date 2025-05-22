@@ -89,6 +89,12 @@ http://45.235.37.254/universalhd/index.m3u8
 http://45.235.37.254/studiouniversalhd/index.m3u8
 #EXTINF:-1 , SONY
 http://45.235.37.254/sonyhd/index.m3u8
+#EXTINF:-1, CINECANAL
+http://live1.cl.cdn.lla.vtrplay.com/cinecanalhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+
+#EXTINF:-1, HBO
+http://live1.cl.cdn.lla.vtrplay.com/hbohdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+
 
 
 #EXTINF:-1 , TOONCAST
@@ -119,5 +125,5 @@ http://45.235.37.254/natgeohd/index.m3u8
 http://45.235.37.254/animalplanethd/index.m3u8
 #EXTINF:-1 , ID
 http://45.235.37.254/idhd/index.m3u8
-#EXTINF:-1 , Espn 
-http://45.235.37.254/espnhd/index.m3u8
+#EXTINF:-1 , LOVE NATURE 
+http://live1.cl.cdn.lla.vtrplay.com/lovenaturehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
