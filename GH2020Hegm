@@ -11,8 +11,6 @@
 https://cdn.cvattv.com.ar/live/c4eds/CH_13_Corrientes/SA_Live_dash_enc_2A/CH_13_Corrientes.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
 
-#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/c14e9545-b484-473a-b31d-680b95e4de4c-profile_image-70x70.png", CHAMAME TV 
-http://srv2.zcast.com.br/chamame/chamame/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_7VOVUCbvwnaBYjNeJ498RJeu0vCrPXaUwSrGKJo&s=0" group-title="Local", 5 CORRIENTES
 http://coninfo.net:1935/tvcinco/live1/playlist.m3u8
