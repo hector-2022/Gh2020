@@ -15,7 +15,7 @@ https://cdn.cvattv.com.ar/live/c4eds/CH_13_Corrientes/SA_Live_dash_enc_2A/CH_13_
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct","k": "xp86/eIIXcqq3b9VJGoDIw","kid": "POwbHql5ndpVluZPN+XtIA"}],"type": "temporary"}
 #EXTINF:-1  ch-number="11" tvg-id="Telefe.ar" tvg-logo="https://git.io/JOTOu" group-title="Argentina", Telefé
-https://cdn.cvattv.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc/TelefeHD.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
+https://cdn.cvattv.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc/TelefeHD.mpd
 
 
 
