@@ -57,7 +57,7 @@ https://cdn.cvattv.com.ar/live/c7eds/La_Nacion/SA_Live_dash_enc/La_Nacion.mpd?|r
 
 
 
-#EXTINF:-1 tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/C7TVP.png?raw=true" group-title="Argentina", TV Pública
+#EXTINF:-1 tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/C7TVP.png" group-title="Argentina", TV Pública
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cc8c82ac2ec7e9799527c29db7354e81:cc4aae173dd2ef17ae26be3f7ae87662
 https://cdn.cvattv.com.ar/live/c6eds/Canal7/SA_Live_dash_enc/Canal7.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
