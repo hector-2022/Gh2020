@@ -480,25 +480,25 @@ https://cdn.cvattv.com.ar///live/c6eds/HBO_Plus/SA_Live_dash_enc/HBO_Plus.mpd?|r
 #KODIPROP:inputstream.adaptive.license_key=535473132f68082160b489482ca35f8e:e90fd91fcd3fc809bed2b1c0d37f7297
 #EXTINF:-1 ch-number="322" tvg-id="HBOFamilyLatinAmerica.us.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/HBOF.png?raw=true" group-title="Cine, Novelas y Series", HBO Family
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://cdn.cvattv.com.ar///live/c6eds/HBO_Family/SA_Live_dash_enc/HBO_Family.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
+https://cdn.cvattv.com.ar///live/c6eds/HBO_Family/SA_Live_dash_enc/HBO_Family.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7821b2662148fe333d5191acbb8a5c1f:ae43f3e2545237ebda58b13813b5d328
 #EXTINF:-1 ch-number="323" tvg-id="HBOMundiLatinAmerica.us.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/HBOMN.png?raw=true" group-title="Cine, Novelas y Series", HBO Mundi
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://cdn.cvattv.com.ar/live/c6eds/HBO_Mundi/SA_Live_dash_enc/HBO_Mundi.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
+https://cdn.cvattv.com.ar/live/c6eds/HBO_Mundi/SA_Live_dash_enc/HBO_Mundi.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f4e1ce5cef7e9a110fe968f8881b21fa:6bbe2062b150b11496cdd5fbdd9c89d6
 #EXTINF:-1 ch-number="324" tvg-id="HBO POP HD.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/HBOPP.png?raw=true" group-title="Cine, Novelas y Series", HBO Pop
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://cdn.cvattv.com.ar/live/c7eds/HBO_POP/SA_Live_dash_enc/HBO_POP.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
+https://cdn.cvattv.com.ar/live/c7eds/HBO_POP/SA_Live_dash_enc/HBO_POP.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e866499fbc1149f49989672075aa3a68:d2dd5c95623c6343240981c2202fc311
 #EXTINF:-1 ch-number="325" tvg-id="HBOSignatureHDLatinAmerica.us.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/HBOSG.png?raw=true" group-title="Cine, Novelas y Series", HBO Signature
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://cdn.cvattv.com.ar/live/c6eds/HBO_Signature/SA_Live_dash_enc/HBO_Signature.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
+https://cdn.cvattv.com.ar/live/c6eds/HBO_Signature/SA_Live_dash_enc/HBO_Signature.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d504011bbef467c0de3a7534e302a6d4:334103e2abe16faa7f9ab2e3097c5a58
