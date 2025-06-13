@@ -918,15 +918,46 @@ https://cdn.sensa.com.ar/live/eds/Playboy/live_dash_cld/Playboy.mpd?|referer=htt
 https://cdn.sensa.com.ar/live/eds/Playboy/live_dash_cld/Playboy.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 
-
-
-
-
 #EXTINF:-1 group-title="Mundo" ch-number="624" tvg-id="veplus" tvg-logo="https://dl.dropbox.com/scl/fi/xk05kx05hq2265pfgmdvk/ve-plus.jpg?rlkey=7ery39zxclpw9gp4swdl8fj89&dl=1", Ve Plus
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=8236bef638490a63aacdc424df908658:6229f752364cd5e71cd31a9ef9757bf1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/bpk-tv/VePlus/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+
+#EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.net/profile/0006/simpson_maniahd189.jpg"group-title=",SIMPSON_MANIAHD193
+https://stream-cdn-iad3.vaughnsoft.net/play/live_simpson_maniahd193.flv
+
+#EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.net/profile/0006/simpson_maniahd189.jpg"group-title=", NEFLIX_01
+https://stream-cdn-iad3.vaughnsoft.net/play/live_a_neflix01.flv
+
+#EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.net/profile/0006/simpson_maniahd189.jpg"group-title=",  TERROR_MANIA
+https://stream-cdn-iad3.vaughnsoft.net/play/live_terror_mania.flv
+
+#EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.net/profile/0006/simpson_maniahd189.jpg"group-title=", BETO_7HD
+https://stream-cdn-iad3.vaughnsoft.net/play/live_beto_7hd.flv
+
+#EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.net/profile/0006/simpson_maniahd189.jpg"group-title=", ZONAFILMSTV
+https://stream-cdn-iad3.vaughnsoft.net/play/live_zonafilmstv.flv
+
+#EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.net/profile/0006/simpson_maniahd189.jpg"group-title=",  GOKU TV
+https://stream-cdn-iad3.vaughnsoft.net/play/live_goku_tv_oficial.flv
+
+#EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.net/profile/0006/simpson_maniahd189.jpg"group-title=",  GOKU TV Latam
+https://stream-cdn-iad3.vaughnsoft.net/play/live_goku_tv_latam.flv
+
+#EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.net/profile/0006/simpson_maniahd189.jpg"group-title=",  TUFORTUNATV
+https://stream-cdn-iad3.vaughnsoft.net/play/live_tufortunatv.flv
+
+#EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.net/profile/0006/simpson_maniahd189.jpg"group-title=",  CRITICANDO_PELIS3
+https://stream-cdn-iad3.vaughnsoft.net/play/live_criticando_pelis3.flv
+
+
+#EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.net/profile/0006/simpson_maniahd189.jpg"group-title=",  JUANCINE
+https://stream-cdn-iad3.vaughnsoft.net/play/live_juancine_tv.flv
+
+#EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.net/profile/0006/simpson_maniahd189.jpg"group-title=",  CINE NINO
+https://stream-cdn-iad3.vaughnsoft.net/play/live_ninojack.flv
 
 
 
