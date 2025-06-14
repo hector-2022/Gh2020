@@ -1415,4 +1415,8 @@ https://ch1-tva.duin.dev/hls/stream.m3u8
 #EXTINF:-1 tvg-chno="10.7" tvg-id="AztecaGuatemala.gt" tvg-logo="https://i.imgur.com/UJhQoUK.png" group-title="TV ABIERTA", A+ GUATE 
 https://ch2-tva.duin.dev/hls/stream.m3u8
 
+#EXTINF:-1 tvg-chno="10.7" tvg-id="AztecaGuatemala.gt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Azteca_7_variante_blanca_2021.png" group-title="TV ABIERTA", AZTECA 7
+http://190.11.225.124:5000/live/azteca7_hd/playlist.m3u8
 
+#EXTINF:-1 tvg-chno="10.7" tvg-id="AztecaGuatemala.gt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Golden_Edge_Logo_2020.png/960px-Golden_Edge_Logo_2020.png" group-title="TV ABIERTA", GOLDEN
+http://190.11.225.124:5000/live/golden_hd/playlist.m3u8
