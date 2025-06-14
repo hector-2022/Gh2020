@@ -1408,3 +1408,11 @@ https://stream-cdn-iad3.vaughnsoft.net/play/live_juancine_tv.flv
 
 #EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.net/profile/0006/simpson_maniahd189.jpg"group-title=",  CINE NINO
 https://stream-cdn-iad3.vaughnsoft.net/play/live_ninojack.flv
+
+#EXTINF:-1 tvg-chno="10.7" tvg-id="AztecaGuatemala.gt" tvg-logo="https://i.imgur.com/UJhQoUK.png" group-title="TV ABIERTA", AZTECA GUATE 
+https://ch1-tva.duin.dev/hls/stream.m3u8
+
+#EXTINF:-1 tvg-chno="10.7" tvg-id="AztecaGuatemala.gt" tvg-logo="https://i.imgur.com/UJhQoUK.png" group-title="TV ABIERTA", A+ GUATE 
+https://ch2-tva.duin.dev/hls/stream.m3u8
+
+
