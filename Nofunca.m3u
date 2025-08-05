@@ -97,7 +97,135 @@
 			]
 		},
 
-
+{
+			"a":"GH DEPORTES",
+			"b":[
+				{
+					"a":"BEIN SPORTS EXTRA Ã‘",
+					"logo_url":"http://i.ibb.co/gJ9z814/o-h-1-895-bein-sports-xtra-1.png",
+					"stream_url":"http://dbrb49pjoymg4.cloudfront.net/10001/99991785/hls/playlist.m3u8?ads.xumo_channelId=99991785"
+				},
+				{
+					"a":"DEPORTV",
+					"logo_url":"http://upload.wikimedia.org/wikipedia/commons/4/46/Logo_DeporTV.png",
+					"stream_url":"http://cdn.cvattv.com.ar/live/c3eds/DeporTVHD/SA_Live_dash_enc_C/DeporTVHD.mpd",
+					"drm_id":"3289535785"
+				},
+				{
+					"a":"ESPN",
+					"logo_url":"http://static.flow.com.ar/images/8458/CH_LOGO/60/40/0/0/71306601073528.png",
+					"stream_url":"http://cdn.cvattv.com.ar/live/c4eds/ESPN2_PY/SA_Live_dash_enc_C/ESPN2_PY.mpd",
+					"drm_id":"3294148645"
+				},
+				{
+					"a":"ESPN 2",
+					"logo_url":"http://static.flow.com.ar/images/8457/CH_LOGO/60/40/0/0/29410352075256.png",
+					"stream_url":"http://cdn.cvattv.com.ar/live/c4eds/ESPN_PY/SA_Live_dash_enc_C/ESPN_PY.mpd",
+					"drm_id":"1374662070"
+				},
+				{
+					"a":"ESPN 3",
+					"logo_url":"http://static.flow.com.ar/images/8817/CH_LOGO/60/40/0/0/29145259072020.png",
+					"stream_url":"http://cdn.cvattv.com.ar/live/c3eds/ESPN3/SA_Live_dash_enc_C/ESPN3.mpd",
+					"drm_id":"303492409"
+				},
+				{
+					"a":"ESPN 4",
+					"logo_url":"http://static.flow.com.ar/images/279/CH_LOGO/60/40/0/0/43362732071132.png",
+					"stream_url":"http://cdn.cvattv.com.ar/live/c3eds/ESPNHD/SA_Live_dash_enc_C/ESPNHD.mpd",
+					"drm_id":"895764935"
+				},
+				{
+					"a":"ESPN 5",
+					"logo_url":"http://static.flow.com.ar/images/8897/CH_LOGO/60/40/0/0/5522598607348.png",
+					"stream_url":"http://cdn.cvattv.com.ar/live/c7eds/ESPN4/SA_Live_dash_enc/ESPN4.mpd",
+					"drm_id":"487581775"
+				},
+				{
+					"a":"ESPN 6",
+					"logo_url":"http://static.flow.com.ar/images/9019/CH_LOGO/60/40/0/0/15905984073899.png",
+					"stream_url":"http://cdn.cvattv.com.ar/live/c7eds/FoxSports3_UY/SA_Live_dash_enc_C/FoxSports3_UY.mpd",
+					"drm_id":"2618780956"
+				},
+				{
+					"a":"ESPN 7",
+					"logo_url":"http://static.flow.com.ar/images/9017/CH_LOGO/60/40/0/0/12041360073463.png",
+					"stream_url":"http://cdn.cvattv.com.ar/live/c7eds/FoxSports2_UY/SA_Live_dash_enc_C/FoxSports2_UY.mpd",
+					"drm_id":"2618780956"
+				},
+				{
+					"a":"ESPN PREMIUM ",
+					"logo_url":"http://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/1200px-ESPN_Premium_logo.svg.png",
+					"stream_url":"http://cdn.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_C/Fox_Sports_Premiun_HD.mpd",
+					"drm_id":"1282927740"
+				},
+				{
+					"a":"FOX SPORTS 1 AR",
+					"logo_url":"http://i.postimg.cc/Y9TsRVch/IMG-20230917-115908-391.jpg",
+					"stream_url":"http://cdn.cvattv.com.ar/live/c3eds/FoxSports/SA_Live_dash_enc_C/FoxSports.mpd",
+					"drm_id":"356284321"
+				},
+				{
+					"a":"FOX SPORTS 2 AR",
+					"logo_url":"http://i.postimg.cc/bYbC8mc9/IMG-20230917-115913-481.jpg",
+					"stream_url":"http://cdn.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_Live_dash_enc_C/FoxSports2HD.mpd",
+					"drm_id":"1539198936"
+				},
+				{
+					"a":"FOX SPORTS 3 AR",
+					"logo_url":"http://i.postimg.cc/ht4pLgJ2/IMG-20230917-115910-727.jpg",
+					"stream_url":"http://cdn.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_Live_dash_enc_C/FoxSports3HD.mpd",
+					"drm_id":"4239674723"
+				},
+				{
+					"a":"FOX SPORTS PREMIUM",
+					"logo_url":"http://github.com/rolnando-play/RP/raw/master/app/canalesImg/fsp.png",
+					"stream_url":"http://cdn.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_C/Fox_Sports_Premiun_HD.mpd",
+					"drm_id":"1282927740"
+				},
+				{
+					"a":"GARAGE TV",
+					"logo_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgWuXXX3upqHakHrwwNdLcf7l48AY_ky9CBQ&s",
+					"stream_url":"http://cdn.cvattv.com.ar/live/c6eds/El_Garage/SA_Live_dash_enc_C/El_Garage.mpd",
+					"drm_id":"4147159286"
+				},
+				{
+					"a":"GOLF CHANNEL",
+					"logo_url":"http://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Golf_Channel_Logo.png/799px-Golf_Channel_Logo.png",
+					"stream_url":"http://cdn.cvattv.com.ar/live/c6eds/Golf_Channel/SA_Live_dash_enc_C/Golf_Channel.mpd",
+					"drm_id":"254036902"
+				},
+				{
+					"a":"NBA",
+					"logo_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDkWiWd8vYFVFueySzA9YNrFBd3CvrtdEBYw&s",
+					"stream_url":"http://cdn.cvattv.com.ar/live/c6eds/NBA_TV/SA_Live_dash_enc_C/NBA_TV.mpd",
+					"drm_id":"93068756"
+				},
+				{
+					"a":"PX SPORTS",
+					"logo_url":"http://i.ibb.co/JyBzQVp/f80c472f1f5707fddcd3da2fc2a53a42.jpg",
+					"stream_url":"http://cdn.cvattv.com.ar/live/c7eds/PX_Sports/SA_Live_dash_enc_C/PX_Sports.mpd",
+					"drm_id":"1419563415"
+				},
+				{
+					"a":"TNT SPORTS PREMIUM ARGENTINA HD",
+					"logo_url":"https://static.flow.com.ar/images/673/CH_LOGO/800/542/0/0/42162652073950.png",
+					"stream_url":"http://cdn.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc_C/TNT_Sports_HD.mpd",
+					"drm_id":"271001376"
+				},
+				{
+					"a":"TYC SPORT",
+					"logo_url":"http://i.ibb.co/ygFV6hM/2023-12-08-18-35-45.png",
+					"stream_url":"http://cdn.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc_C/TyCSport.mpd",
+					"drm_id":"2751218854"
+				},
+			    {
+					"a":"UFC",
+					"logo_url":"http://logowik.com/content/uploads/images/ufc-ultimate-fighting-championship3349.jpg",
+					"stream_url":"http://dbrb49pjoymg4.cloudfront.net/10001/99951134/hls/playlist.m3u8?ads.xumo_channelId=99951134"
+				}
+			]
+		},
 
 {
 "a":"EVENTOS FLOW HD",
@@ -117,7 +245,7 @@
 			]
 		},
 		{
-			"a":"ðŸŽ¬ CINE Y SERIES",
+			"a":"GH CINE Y SERIES",
 			"b":[
 				{
 					"a":"A&E",
@@ -190,12 +318,6 @@
 					"logo_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCOUZ3pDAH3PTKN4NWg6SrPuYNhkGps8ttaw&s",
 					"stream_url":"http://cdn.cvattv.com.ar/live/c3eds/FXHD/SA_Live_dash_enc_C/FXHD.mpd",
 					"drm_id":"3667941818"
-				},
-				{
-					"a":"ISAT",
-					"logo_url":"http://upload.wikimedia.org/wikipedia/commons/thumb/2/20/I.Sat_logo.svg/2560px-I.Sat_logo.svg.png",
-					"stream_url":"http://cdn.cvattv.com.ar/live/c6eds/ISAT/SA_Live_dash_enc_C/ISAT.mpd",
-					"drm_id":"2184710500"
 				},
 				{
 					"a":"METRO",
@@ -277,7 +399,7 @@
 			]
 		},
 		{
-			"a":"ðŸ‘©â€ðŸ‘¦â€ðŸ‘¦ INFANTILES",
+			"a":"GH INFANTILES",
 			"b":[
 				{
 					"a":"BABY TV",
@@ -291,11 +413,7 @@
 					"stream_url":"http://cdn.cvattv.com.ar/live/c7eds/Boomerang/SA_Live_dash_enc_C/Boomerang.mpd",
 					"drm_id":"227238971"
 				},
-				{
-					"a":"CANELA KIDS",
-					"logo_url":"http://img1.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/960x540/linear-canela_kids.psdlinear-canela_kids-16x9-albert_0.jpg",
-					"stream_url":"http://stream.ads.ottera.tv/playlist.m3u8?network_id=654"
-				},
+			
 				{
 					"a":"CARTOON NETWORK HD",
 					"logo_url":"http://clarovideocdn4.clarovideo.net/CVPERU/PELICULAS/CARTOONNETWORKHD/EXPORTACION_WEB/SS/CARTOONNETWORKHD_t-290x163.png",
@@ -377,15 +495,117 @@
 					"logo_url":"http://i.ibb.co/zxjmbLC/toonz-kids.png",
 					"stream_url":"http://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/toonzkids-spanish/master.m3u8"
 				},
+				
+		{
+			"a":"GH CULTURA",
+			"b":[
 				{
-					"a":"ZOOMOO",
-					"logo_url":"http://i.ibb.co/XZ6FCBY/zoomoo.png",
-					"stream_url":"http://168.181.122.234:8000/play/a03f/index.m3u8"
-				}
+					"a":"ANIMAL PLANET",
+					"logo_url":"http://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png",
+					"stream_url":"http://cdn.cvattv.com.ar/live/c7eds/AnimalPlanet/SA_Live_dash_enc_C/AnimalPlanet.mpd",
+					"drm_id":"2626620601"
+				},
+				{
+					"a":"DISCOVERY",
+					"logo_url":"https://upload.wikimedia.org/wikipedia/en/thumb/2/23/Discovery_HD.svg/640px-Discovery_HD.svg.png",
+					"stream_url":"http://cdn.cvattv.com.ar/live/c3eds/DiscoveryHD/SA_Live_dash_enc_C/DiscoveryHD.mpd",
+					"drm_id":"1982393060"
+				},
+				{
+					"a":"DISCOVERY H&H",
+					"logo_url":"http://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Discovery_Home_%26_Health_logo.svg/1200px-Discovery_Home_%26_Health_logo.svg.png",
+					"stream_url":"http://cdn.cvattv.com.ar/live/c3eds/DiscoveryHomeHealthHD/SA_Live_dash_enc_C/DiscoveryHomeHealthHD.mpd",
+					"drm_id":"471282662"
+				},
+				{
+					"a":"DISCOVERY ID",
+					"logo_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjr5vZACWAmzBhGZrV0oMWlfLb25p23_raSQ&s",
+					"stream_url":"http://cdn.cvattv.com.ar/live/c7eds/ID/SA_Live_dash_enc_C/ID.mpd",
+					"drm_id":"1779379996"
+				},
+				{
+					"a":"DISCOVERY SCIENCE",
+					"logo_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMVcx8ofgRpF_B6canqHSuyfhwhfGp-3IalA&s",
+					"stream_url":"http://cdn.cvattv.com.ar/live/c6eds/Discovery_Science/SA_Live_dash_enc_C/Discovery_Science.mpd",
+					"drm_id":"4104503498"
+				},
+				{
+					"a":"DISCOVERY THEATER",
+					"logo_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjP41tguKuVLof60STbRZSO1tb2tE1S23yrQ&s",
+					"stream_url":"http://cdn.cvattv.com.ar/live/c6eds/Theater_HD/SA_Live_dash_enc_C/Theater_HD.mpd",
+					"drm_id":"2023651909"
+				},
+				{
+					"a":"DISCOVERY TLC",
+					"logo_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMU2M9Ttg-9HqWKoyIqbmhGl3FUgG5Pglo4Q&s",
+					"stream_url":"http://cdn.cvattv.com.ar/live/c6eds/TLC/SA_Live_dash_enc_C/TLC.mpd",
+					"drm_id":"4172288869"
+				},
+				{
+					"a":"DISCOVERY TURBO",
+					"logo_url":"http://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png",
+					"stream_url":"http://cdn.cvattv.com.ar/live/c7eds/DiscoveryTurbo/SA_Live_dash_enc_C/DiscoveryTurbo.mpd",
+					"drm_id":"995274988"
+				},
+				{
+					"a":"DISCOVERY WORLD",
+					"logo_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrm9clKWfFuQsgTJsjHssu-kvsBIgMVmSBEw&s",
+					"stream_url":"http://cdn.cvattv.com.ar/live/c6eds/Discovery_World_HD/SA_Live_dash_enc_C/Discovery_World_HD.mpd",
+					"drm_id":"4129212246"
+				},
+				{
+					"a":"FILM & ARTS",
+					"logo_url":"http://i.ibb.co/9bJ3cxp/ar-film-arts-m.png",
+					"stream_url":"http://cdn.cvattv.com.ar/live/c6eds/Film_Arts/SA_Live_dash_enc_C/Film_Arts.mpd",
+					"drm_id":"29612788"
+				},
+				{
+					"a":"GOURMET",
+					"logo_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ58zqJbzI3c5SKP8qWEnJXeTUk1Du9dXoDA&s",
+					"stream_url":"http://cdn.cvattv.com.ar/live/c3eds/Gourmet/SA_Live_dash_enc_C/Gourmet.mpd",
+					"drm_id":"931056636"
+				},
+				{
+					"a":"HGTV",
+					"logo_url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/640px-HGTV_US_Logo_2015.svg.png",
+					"stream_url":"http://cdn.cvattv.com.ar/live/c7eds/Home_and_Garden/SA_Live_dash_enc_C/Home_and_Garden.mpd",
+					"drm_id":"396428825"
+				},
+				{
+					"a":"HISTORY",
+					"logo_url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/732px-History_Logo.svg.png",
+					"stream_url":"http://cdn.cvattv.com.ar/live/c7eds/HistoryHD/SA_Live_dash_enc_C/HistoryHD.mpd",
+					"drm_id":"3157732054"
+				},
+				{
+					"a":"HISTORY 2",
+					"logo_url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/744px-History2_logo_%282022%29.svg.png",
+					"stream_url":"http://cdn.cvattv.com.ar/live/c6eds/History_2/SA_Live_dash_enc_C/History_2.mpd",
+					"drm_id":"3157732055"
+				},
+				
+				{
+					"a":"NATIONAL GEOGRAPHIC",
+					"logo_url":"http://i.ibb.co/tmGdKgj/natgeo.png",
+					"stream_url":"http://cdn.cvattv.com.ar/live/c3eds/NatGeoHD/SA_Live_dash_enc_C/NatGeoHD.mpd",
+					"drm_id":"1499438246"
+				},
+				
+				{
+					"a":"SUN CHANNEL",
+					"logo_url":"http://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Sun_Channel_logo.svg/240px-Sun_Channel_logo.svg.png",
+					"stream_url":"http://cdn.cvattv.com.ar/live/c6eds/Sun_Channel/SA_Live_dash_enc_C/Sun_Channel.mpd",
+					"drm_id":"3953687911"
+				},
+		
+			]
+		},		
+				
+				
 			]
 		},
 		{
-			"a":"ðŸŽµ MÃšSICA",
+			"a":"GH MUSICA",
 			"b":[
 				{
 					"a":"ALLEGRO",
@@ -672,124 +892,9 @@
 				}
 			]
 		},
+		
 		{
-			"a":"ðŸ“š CULTURA",
-			"b":[
-				{
-					"a":"ANIMAL PLANET",
-					"logo_url":"http://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png",
-					"stream_url":"http://cdn.cvattv.com.ar/live/c7eds/AnimalPlanet/SA_Live_dash_enc_C/AnimalPlanet.mpd",
-					"drm_id":"2626620601"
-				},
-				{
-					"a":"DISCOVERY",
-					"logo_url":"https://upload.wikimedia.org/wikipedia/en/thumb/2/23/Discovery_HD.svg/640px-Discovery_HD.svg.png",
-					"stream_url":"http://cdn.cvattv.com.ar/live/c3eds/DiscoveryHD/SA_Live_dash_enc_C/DiscoveryHD.mpd",
-					"drm_id":"1982393060"
-				},
-				{
-					"a":"DISCOVERY H&H",
-					"logo_url":"http://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Discovery_Home_%26_Health_logo.svg/1200px-Discovery_Home_%26_Health_logo.svg.png",
-					"stream_url":"http://cdn.cvattv.com.ar/live/c3eds/DiscoveryHomeHealthHD/SA_Live_dash_enc_C/DiscoveryHomeHealthHD.mpd",
-					"drm_id":"471282662"
-				},
-				{
-					"a":"DISCOVERY ID",
-					"logo_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjr5vZACWAmzBhGZrV0oMWlfLb25p23_raSQ&s",
-					"stream_url":"http://cdn.cvattv.com.ar/live/c7eds/ID/SA_Live_dash_enc_C/ID.mpd",
-					"drm_id":"1779379996"
-				},
-				{
-					"a":"DISCOVERY SCIENCE",
-					"logo_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMVcx8ofgRpF_B6canqHSuyfhwhfGp-3IalA&s",
-					"stream_url":"http://cdn.cvattv.com.ar/live/c6eds/Discovery_Science/SA_Live_dash_enc_C/Discovery_Science.mpd",
-					"drm_id":"4104503498"
-				},
-				{
-					"a":"DISCOVERY THEATER",
-					"logo_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjP41tguKuVLof60STbRZSO1tb2tE1S23yrQ&s",
-					"stream_url":"http://cdn.cvattv.com.ar/live/c6eds/Theater_HD/SA_Live_dash_enc_C/Theater_HD.mpd",
-					"drm_id":"2023651909"
-				},
-				{
-					"a":"DISCOVERY TLC",
-					"logo_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMU2M9Ttg-9HqWKoyIqbmhGl3FUgG5Pglo4Q&s",
-					"stream_url":"http://cdn.cvattv.com.ar/live/c6eds/TLC/SA_Live_dash_enc_C/TLC.mpd",
-					"drm_id":"4172288869"
-				},
-				{
-					"a":"DISCOVERY TURBO",
-					"logo_url":"http://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png",
-					"stream_url":"http://cdn.cvattv.com.ar/live/c7eds/DiscoveryTurbo/SA_Live_dash_enc_C/DiscoveryTurbo.mpd",
-					"drm_id":"995274988"
-				},
-				{
-					"a":"DISCOVERY WORLD",
-					"logo_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrm9clKWfFuQsgTJsjHssu-kvsBIgMVmSBEw&s",
-					"stream_url":"http://cdn.cvattv.com.ar/live/c6eds/Discovery_World_HD/SA_Live_dash_enc_C/Discovery_World_HD.mpd",
-					"drm_id":"4129212246"
-				},
-				{
-					"a":"FILM & ARTS",
-					"logo_url":"http://i.ibb.co/9bJ3cxp/ar-film-arts-m.png",
-					"stream_url":"http://cdn.cvattv.com.ar/live/c6eds/Film_Arts/SA_Live_dash_enc_C/Film_Arts.mpd",
-					"drm_id":"29612788"
-				},
-				{
-					"a":"GOURMET",
-					"logo_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ58zqJbzI3c5SKP8qWEnJXeTUk1Du9dXoDA&s",
-					"stream_url":"http://cdn.cvattv.com.ar/live/c3eds/Gourmet/SA_Live_dash_enc_C/Gourmet.mpd",
-					"drm_id":"931056636"
-				},
-				{
-					"a":"HGTV",
-					"logo_url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/640px-HGTV_US_Logo_2015.svg.png",
-					"stream_url":"http://cdn.cvattv.com.ar/live/c7eds/Home_and_Garden/SA_Live_dash_enc_C/Home_and_Garden.mpd",
-					"drm_id":"396428825"
-				},
-				{
-					"a":"HISTORY",
-					"logo_url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/732px-History_Logo.svg.png",
-					"stream_url":"http://cdn.cvattv.com.ar/live/c7eds/HistoryHD/SA_Live_dash_enc_C/HistoryHD.mpd",
-					"drm_id":"3157732054"
-				},
-				{
-					"a":"HISTORY 2",
-					"logo_url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/744px-History2_logo_%282022%29.svg.png",
-					"stream_url":"http://cdn.cvattv.com.ar/live/c6eds/History_2/SA_Live_dash_enc_C/History_2.mpd",
-					"drm_id":"3157732055"
-				},
-				{
-					"a":"LOVE NATURE",
-					"logo_url":"http://i.ibb.co/ySf3Pgf/love-nature.png",
-					"stream_url":"http://amg00090-blueantllc-lovenature-xumo-7ap4k.amagi.tv/playlist720lp.m3u8"
-				},
-				{
-					"a":"NATIONAL GEOGRAPHIC",
-					"logo_url":"http://i.ibb.co/tmGdKgj/natgeo.png",
-					"stream_url":"http://cdn.cvattv.com.ar/live/c3eds/NatGeoHD/SA_Live_dash_enc_C/NatGeoHD.mpd",
-					"drm_id":"1499438246"
-				},
-				{
-					"a":"SABER MÃS",
-					"logo_url":"http://i.ibb.co/cYjQX71/freetv-sabermas-1080x1080-02092024.jpg",
-					"stream_url":"http://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-sabermas-distro/playlist.m3u8"
-				},
-				{
-					"a":"SUN CHANNEL",
-					"logo_url":"http://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Sun_Channel_logo.svg/240px-Sun_Channel_logo.svg.png",
-					"stream_url":"http://cdn.cvattv.com.ar/live/c6eds/Sun_Channel/SA_Live_dash_enc_C/Sun_Channel.mpd",
-					"drm_id":"3953687911"
-				},
-				{
-					"a":"TRAVELXP ES",
-					"logo_url":"http://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1400001L4_20231101T032753SQUARE.png_20231101032754.png",
-					"stream_url":"https://36c99fb4c50649bf803389624beea453.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-es_TravelXP/playlist.m3u8"
-				}
-			]
-		},
-		{
-			"a":"ðŸ‡µðŸ‡¾ PARAGUAY",
+			"a":"GH PARAGUAY",
 			"b":[
 				{
 					"a":"5 DIAS",
@@ -900,7 +1005,7 @@
 			]
 		},
 		{
-			"a":"ðŸŽ¬ PACK PREMIUM UNIVERSAL Y HBO",
+			"a":"GH PACK PREMIUM UNIVERSAL Y HBO",
 			"b":[
 				{
 					"a":"HBO",
@@ -1243,199 +1348,9 @@
 				}
 			]
 		},
+		
 		{
-			"a":"âš½ DEPORTES",
-			"b":[
-				{
-					"a":"BEIN SPORTS EXTRA Ã‘",
-					"logo_url":"http://i.ibb.co/gJ9z814/o-h-1-895-bein-sports-xtra-1.png",
-					"stream_url":"http://dbrb49pjoymg4.cloudfront.net/10001/99991785/hls/playlist.m3u8?ads.xumo_channelId=99991785"
-				},
-				{
-					"a":"DEPORTV",
-					"logo_url":"http://upload.wikimedia.org/wikipedia/commons/4/46/Logo_DeporTV.png",
-					"stream_url":"http://cdn.cvattv.com.ar/live/c3eds/DeporTVHD/SA_Live_dash_enc_C/DeporTVHD.mpd",
-					"drm_id":"3289535785"
-				},
-				{
-					"a":"ESPN",
-					"logo_url":"http://static.flow.com.ar/images/8458/CH_LOGO/60/40/0/0/71306601073528.png",
-					"stream_url":"http://cdn.cvattv.com.ar/live/c4eds/ESPN2_PY/SA_Live_dash_enc_C/ESPN2_PY.mpd",
-					"drm_id":"3294148645"
-				},
-				{
-					"a":"ESPN 2",
-					"logo_url":"http://static.flow.com.ar/images/8457/CH_LOGO/60/40/0/0/29410352075256.png",
-					"stream_url":"http://cdn.cvattv.com.ar/live/c4eds/ESPN_PY/SA_Live_dash_enc_C/ESPN_PY.mpd",
-					"drm_id":"1374662070"
-				},
-				{
-					"a":"ESPN 3",
-					"logo_url":"http://static.flow.com.ar/images/8817/CH_LOGO/60/40/0/0/29145259072020.png",
-					"stream_url":"http://cdn.cvattv.com.ar/live/c3eds/ESPN3/SA_Live_dash_enc_C/ESPN3.mpd",
-					"drm_id":"303492409"
-				},
-				{
-					"a":"ESPN 4",
-					"logo_url":"http://static.flow.com.ar/images/279/CH_LOGO/60/40/0/0/43362732071132.png",
-					"stream_url":"http://cdn.cvattv.com.ar/live/c3eds/ESPNHD/SA_Live_dash_enc_C/ESPNHD.mpd",
-					"drm_id":"895764935"
-				},
-				{
-					"a":"ESPN 5",
-					"logo_url":"http://static.flow.com.ar/images/8897/CH_LOGO/60/40/0/0/5522598607348.png",
-					"stream_url":"http://cdn.cvattv.com.ar/live/c7eds/ESPN4/SA_Live_dash_enc/ESPN4.mpd",
-					"drm_id":"487581775"
-				},
-				{
-					"a":"ESPN 6",
-					"logo_url":"http://static.flow.com.ar/images/9019/CH_LOGO/60/40/0/0/15905984073899.png",
-					"stream_url":"http://cdn.cvattv.com.ar/live/c7eds/FoxSports3_UY/SA_Live_dash_enc_C/FoxSports3_UY.mpd",
-					"drm_id":"2618780956"
-				},
-				{
-					"a":"ESPN 7",
-					"logo_url":"http://static.flow.com.ar/images/9017/CH_LOGO/60/40/0/0/12041360073463.png",
-					"stream_url":"http://cdn.cvattv.com.ar/live/c7eds/FoxSports2_UY/SA_Live_dash_enc_C/FoxSports2_UY.mpd",
-					"drm_id":"2618780956"
-				},
-				{
-					"a":"ESPN PREMIUM ",
-					"logo_url":"http://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/1200px-ESPN_Premium_logo.svg.png",
-					"stream_url":"http://cdn.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_C/Fox_Sports_Premiun_HD.mpd",
-					"drm_id":"1282927740"
-				},
-				{
-					"a":"FOX SPORTS 1 AR",
-					"logo_url":"http://i.postimg.cc/Y9TsRVch/IMG-20230917-115908-391.jpg",
-					"stream_url":"http://cdn.cvattv.com.ar/live/c3eds/FoxSports/SA_Live_dash_enc_C/FoxSports.mpd",
-					"drm_id":"356284321"
-				},
-				{
-					"a":"FOX SPORTS 2 AR",
-					"logo_url":"http://i.postimg.cc/bYbC8mc9/IMG-20230917-115913-481.jpg",
-					"stream_url":"http://cdn.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_Live_dash_enc_C/FoxSports2HD.mpd",
-					"drm_id":"1539198936"
-				},
-				{
-					"a":"FOX SPORTS 3 AR",
-					"logo_url":"http://i.postimg.cc/ht4pLgJ2/IMG-20230917-115910-727.jpg",
-					"stream_url":"http://cdn.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_Live_dash_enc_C/FoxSports3HD.mpd",
-					"drm_id":"4239674723"
-				},
-				{
-					"a":"FOX SPORTS PREMIUM",
-					"logo_url":"http://github.com/rolnando-play/RP/raw/master/app/canalesImg/fsp.png",
-					"stream_url":"http://cdn.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_C/Fox_Sports_Premiun_HD.mpd",
-					"drm_id":"1282927740"
-				},
-				{
-					"a":"GARAGE TV",
-					"logo_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgWuXXX3upqHakHrwwNdLcf7l48AY_ky9CBQ&s",
-					"stream_url":"http://cdn.cvattv.com.ar/live/c6eds/El_Garage/SA_Live_dash_enc_C/El_Garage.mpd",
-					"drm_id":"4147159286"
-				},
-				{
-					"a":"GOLF CHANNEL",
-					"logo_url":"http://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Golf_Channel_Logo.png/799px-Golf_Channel_Logo.png",
-					"stream_url":"http://cdn.cvattv.com.ar/live/c6eds/Golf_Channel/SA_Live_dash_enc_C/Golf_Channel.mpd",
-					"drm_id":"254036902"
-				},
-				{
-					"a":"NBA",
-					"logo_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDkWiWd8vYFVFueySzA9YNrFBd3CvrtdEBYw&s",
-					"stream_url":"http://cdn.cvattv.com.ar/live/c6eds/NBA_TV/SA_Live_dash_enc_C/NBA_TV.mpd",
-					"drm_id":"93068756"
-				},
-				{
-					"a":"PREMIERE",
-					"logo_url":"http://i.ibb.co/9qKqqdT/nota-premiere-disponible-a-traves-de-amazon-prime-video.jpg",
-					"stream_url":"http://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/4zkafrcxji/out/v1/810ebca1aff0443da717da4acdeda158/cenc.mpd",
-					"drm_id":"2551091971"
-				},
-				{
-					"a":"PX SPORTS",
-					"logo_url":"http://i.ibb.co/JyBzQVp/f80c472f1f5707fddcd3da2fc2a53a42.jpg",
-					"stream_url":"http://cdn.cvattv.com.ar/live/c7eds/PX_Sports/SA_Live_dash_enc_C/PX_Sports.mpd",
-					"drm_id":"1419563415"
-				},
-				{
-					"a":"TNT SPORTS PREMIUM ARGENTINA HD",
-					"logo_url":"https://static.flow.com.ar/images/673/CH_LOGO/800/542/0/0/42162652073950.png",
-					"stream_url":"http://cdn.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc_C/TNT_Sports_HD.mpd",
-					"drm_id":"271001376"
-				},
-				{
-					"a":"TYC SPORT",
-					"logo_url":"http://i.ibb.co/ygFV6hM/2023-12-08-18-35-45.png",
-					"stream_url":"http://cdn.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc_C/TyCSport.mpd",
-					"drm_id":"2751218854"
-				},
-				{
-					"a":"TYC SPORT (PLAY 1)",
-					"logo_url":"http://play-lh.googleusercontent.com/FhOQWiELN6RRFwFbxKWWWEBLgGhXifnJfWT8SWtHZUdSH6fT3Jc_IC88xtebGFXTbQ",
-					"stream_url":"http://d320m3arb2wo8b.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index.m3u8"
-				},
-				{
-					"a":"TYC SPORT (PLAY 2)",
-					"logo_url":"http://play-lh.googleusercontent.com/FhOQWiELN6RRFwFbxKWWWEBLgGhXifnJfWT8SWtHZUdSH6fT3Jc_IC88xtebGFXTbQ",
-					"stream_url":"http://dj8bzwveg7go9.cloudfront.net/out/v1/19321d887c274b58a4f62fe0f6e2151b/index_9.m3u8"
-				},
-				{
-					"a":"TYC SPORT (PLAY 3)",
-					"logo_url":"http://play-lh.googleusercontent.com/FhOQWiELN6RRFwFbxKWWWEBLgGhXifnJfWT8SWtHZUdSH6fT3Jc_IC88xtebGFXTbQ",
-					"stream_url":"http://d1xm2jznwi5xzj.cloudfront.net/out/v1/1bcd1ee954894463b1793597891a25b6/index_10.m3u8"
-				},
-				{
-					"a":"TYC SPORT (PLAY 4)",
-					"logo_url":"http://play-lh.googleusercontent.com/FhOQWiELN6RRFwFbxKWWWEBLgGhXifnJfWT8SWtHZUdSH6fT3Jc_IC88xtebGFXTbQ",
-					"stream_url":"http://dj8bzwveg7go9.cloudfront.net/out/v1/366fc52554ae42c58465ea4b278eac0c/index_15.m3u8"
-				},
-				{
-					"a":"TYC SPORT (PLAY 5)",
-					"logo_url":"http://play-lh.googleusercontent.com/FhOQWiELN6RRFwFbxKWWWEBLgGhXifnJfWT8SWtHZUdSH6fT3Jc_IC88xtebGFXTbQ",
-					"stream_url":"http://d107yb993altze.cloudfront.net/out/v1/772e0b0193134726ad84693b7baca6c6/index_9.m3u8"
-				},
-				{
-					"a":"TYC SPORT INTERNACIONAL",
-					"logo_url":"http://i.ibb.co/ygFV6hM/2023-12-08-18-35-45.png",
-					"stream_url":"http://cdn.cvattv.com.ar/live/c3eds/TyC_Internacional/SA_Live_dash_enc_C/TyC_Internacional.mpd",
-					"drm_id":"2988990610"
-				},
-				{
-					"a":"TYC SPORTS (PLAY 10)",
-					"logo_url":"http://play-lh.googleusercontent.com/FhOQWiELN6RRFwFbxKWWWEBLgGhXifnJfWT8SWtHZUdSH6fT3Jc_IC88xtebGFXTbQ",
-					"stream_url":"http://d2scohpz55y5r5.cloudfront.net/out/v1/c43ac17254584daa9781eaaeea1a085d/index.m3u8"
-				},
-				{
-					"a":"TYC SPORTS (PLAY 6)",
-					"logo_url":"http://play-lh.googleusercontent.com/FhOQWiELN6RRFwFbxKWWWEBLgGhXifnJfWT8SWtHZUdSH6fT3Jc_IC88xtebGFXTbQ",
-					"stream_url":"http://d21no6qan3ol31.cloudfront.net/out/v1/a2f25f61e9d44701aa4e813ac5efc4a4/index.m3u8"
-				},
-				{
-					"a":"TYC SPORTS (PLAY 7)",
-					"logo_url":"http://play-lh.googleusercontent.com/FhOQWiELN6RRFwFbxKWWWEBLgGhXifnJfWT8SWtHZUdSH6fT3Jc_IC88xtebGFXTbQ",
-					"stream_url":"http://d3v9hc3dccxi3a.cloudfront.net/out/v1/bccdd4d97f434c63ab2f675e5145758f/index.m3u8"
-				},
-				{
-					"a":"TYC SPORTS (PLAY 8)",
-					"logo_url":"http://play-lh.googleusercontent.com/FhOQWiELN6RRFwFbxKWWWEBLgGhXifnJfWT8SWtHZUdSH6fT3Jc_IC88xtebGFXTbQ",
-					"stream_url":"http://dbjn2fo8vpiph.cloudfront.net/out/v1/4c8dc641a91448439388e41118924965/index.m3u8"
-				},
-				{
-					"a":"TYC SPORTS (PLAY 9)",
-					"logo_url":"http://play-lh.googleusercontent.com/FhOQWiELN6RRFwFbxKWWWEBLgGhXifnJfWT8SWtHZUdSH6fT3Jc_IC88xtebGFXTbQ",
-					"stream_url":"http://d1scuk1wvkchtc.cloudfront.net/out/v1/19321d887c274b58a4f62fe0f6e2151b/index.m3u8"
-				},
-				{
-					"a":"UFC",
-					"logo_url":"http://logowik.com/content/uploads/images/ufc-ultimate-fighting-championship3349.jpg",
-					"stream_url":"http://dbrb49pjoymg4.cloudfront.net/10001/99951134/hls/playlist.m3u8?ads.xumo_channelId=99951134"
-				}
-			]
-		},
-		{
-			"a":"ðŸŒ TELEVISIÃ“N INTERNACIONAL",
+			"a":"GH TELEVISIÃ“N INTERNACIONAL",
 			"b":[
 				{
 					"a":"ANTENA 3 INT",
@@ -1531,7 +1446,7 @@
 			]
 		},
 		{
-			"a":"ðŸ™ðŸ»â€â™€ï¸ NOVELAS y VARIEDADES",
+			"a":"GH NOVELAS y VARIEDADES",
 			"b":[
 				{
 					"a":"ADULT SWIM",
@@ -1820,7 +1735,7 @@
 			]
 		},
 		{
-			"a":"ðŸ‡ºðŸ‡¾ URUGUAY",
+			"a":"GH URUGUAY",
 			"b":[
 				{
 					"a":"CANAL 10",
