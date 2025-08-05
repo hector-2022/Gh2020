@@ -1073,22 +1073,7 @@
 					"a":"TELEFE",
 					"logo_url":"http://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png",
 					"stream_url":"http://cdn.cvattv.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc_C/TelefeHD.mpd",
-					"drm_id":"1248306118"
-				},
-				{
-					"a":"TN NOTICIAS",
-					"logo_url":"http://cdn6.aptoide.com/imgs/6/a/a/6aa95365537efbae3fda880d015e4b95_icon.png",
-					"stream_url":"http://cdn.cvattv.com.ar/live/c7eds/TodoNoticias/SA_Live_dash_enc_C/TodoNoticias.mpd",
-					"drm_id":"2864015877"
-				},
-				{
-					"a":"TV PUBLICA",
-					"logo_url":"http://upload.wikimedia.org/wikipedia/commons/4/4d/Logo_TV_P%C3%BAblica_Digital.png",
-					"stream_url":"http://cdn.cvattv.com.ar/live/c6eds/Canal7/SA_Live_dash_enc_C/Canal7.mpd",
-					"drm_id":"3444557653"
-				}
-			]
-		},
+	
 		{
 			"a":"INTERIOR DE ARGENTINA",
 			"b":[
