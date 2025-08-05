@@ -1,37 +1,4 @@
-{
-	"a":[
-		{
-			"a":"APP GRATUITA.",
-			"b":[
-				{
-					"a":"tv",
-					"logo_url":"http://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/240px-Telegram_logo.svg.png",
-					"stream_url":"http://0.0.0.0",
-					"drm_id":"0"
-				}
-			]
-		},
-		{
-			"a":"ðŸ‡µðŸ‡¾Paraguay Eventos VPN-AR/UY/PY/US",
-			"b":[
-				{
-					"a":"Eventos 1 (MPD)",
-					"logo_url":"https://i.postimg.cc/yWqZT1c5/trigo-sports.png",
-					"stream_url":"https://sam-py-edge05.tigo.com.py/ccur-session/f9de91d275e9428d9b2020eaf9c3772017462185850761b65a320aeed11ebae01d90082191a3coPufp9yYB3qqtMFbxeMGTmPz/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd",
-					"drm_id":"729527824"
-				},
-				{
-					"a":"Eventos+ (MPD)",
-					"logo_url":"https://i.postimg.cc/dtH1vthK/trigo-sports-mas.png",
-					"stream_url":"https://sam-py-edge05.tigo.com.py/ccur-session/f9de91d275e9428d9b2020eaf9c3772017462185850761b65a320aeed11ebae01d90082191a3coPufp9yYB3qqtMFbxeMGTmPz/out/v1/62de20495af84f908fa8963f50c44d46/index.mpd",
-					"drm_id":"2868488685"
-				},
-				{
-					"a":"Eventos 3 (MPD)",
-					"logo_url":"https://i.postimg.cc/1zc1mJvN/trigo-sports-3.png",
-					"stream_url":"https://sam-py-edge05.tigo.com.py/ccur-session/f9de91d275e9428d9b2020eaf9c3772017462185850761b65a320aeed11ebae01d90082191a3coPufp9yYB3qqtMFbxeMGTmPz/out/v1/c2cc7832b5b64aedacb0e459fd9d8398/index.mpd",
-					"drm_id":"2868488686"
-				}
+}
 			]
 		},
 		{
