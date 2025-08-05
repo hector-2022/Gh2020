@@ -219,15 +219,15 @@
 					"stream_url":"http://cdn.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc_C/TyCSport.mpd",
 					"drm_id":"2751218854"
 				},
-			    {
+                                {
 					"a":"UFC",
 					"logo_url":"http://logowik.com/content/uploads/images/ufc-ultimate-fighting-championship3349.jpg",
 					"stream_url":"http://dbrb49pjoymg4.cloudfront.net/10001/99951134/hls/playlist.m3u8?ads.xumo_channelId=99951134"
 				}
 			]
 		},
-
 {
+
 "a":"EVENTOS FLOW HD",
 			"b":[
 				{
@@ -722,7 +722,7 @@
 
                               ]
 		           },
-		         {
+		{
 			"a":"GH PARAGUAY",
 			"b":[
 				{
@@ -828,7 +828,7 @@
 				}
 			      ]
 		           },
-		        {
+		{
 			"a":"GH PACK PREMIUM UNIVERSAL Y HBO",
 			"b":[
 				{
@@ -923,7 +923,7 @@
 				}
 			      ]
 		           },		
-		         {
+		{
 			"a":"INTERIOR DE ARGENTINA",
 			"b":[
 				{
@@ -1038,7 +1038,7 @@
 					"a":"TELE NORT CORRIENTES",
 					"logo_url":"",
 					"stream_url":"http://www.coninfo.net:1935/previsoratv/live/playlist.m3u8"
-				},		
+				}		
 			    ]
 		       },
 		     {
@@ -1123,7 +1123,7 @@
 					"logo_url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Logotipo_de_TV_Chile.svg/1171px-Logotipo_de_TV_Chile.svg.png",
 					"stream_url":"http://cdn.cvattv.com.ar/live/c6eds/Tv_Chile/SA_Live_dash_enc_C/Tv_Chile.mpd",
 					"drm_id":"4174354115"
-				},		
+				}		
 			 ]
 		      },
 		    {
