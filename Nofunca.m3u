@@ -607,22 +607,14 @@
 					"stream_url":"http://cdn.cvattv.com.ar/live/c7eds/AllegroHD/SA_Live_dash_enc_C/AllegroHD.mpd",
 					"drm_id":"1876330028"
 				},
-				{
-					"a":"BANDAMAX",
-					"logo_url":"http://i.ibb.co/0D7TMmZ/Bandamax.png",
-					"stream_url":"http://archive.org/download/3_20231204_20231204_1810/bandama.m3u8"
-				},
+				
 				{
 					"a":"CANAL DE MUSICA",
 					"logo_url":"http://1.bp.blogspot.com/-_tE8VO8HMnA/X0_XRjluTAI/AAAAAAAA6Ts/-pyWu9d-VyAKrBlIG1S84e2hVSWEfoHagCLcBGAsYHQ/s0/cm-elcanaldelamusica.png",
 					"stream_url":"http://cdn.cvattv.com.ar/live/c6eds/CM/SA_Live_dash_enc_C/CM.mpd",
 					"drm_id":"1870656474"
 				},
-				{
-					"a":"CONCERT CHANNEL",
-					"logo_url":"http://i.ibb.co/5Btjrt1/concertch.png",
-					"stream_url":"http://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(CONCERT_CHANNEL_HD)/index.m3u8"
-				},
+				
 				{
 					"a":"QUIERO MUSICA",
 					"logo_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR6rqeT-_cYSHMEAqDNtJQK6W3LZs52yVOGA&s",
@@ -635,16 +627,7 @@
 					"stream_url":"http://cdn.cvattv.com.ar/live/c6eds/Vorterix/SA_Live_dash_enc_C/Vorterix.mpd",
 					"drm_id":"2644790261"
 				},
-				{
-					"a":"FLASH",
-					"logo_url":"http://i.ibb.co/nzMrH36/freetv-hits-1080x1080-02092024.jpg",
-					"stream_url":"http://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-flash-distro/playlist.m3u8"
-				},
-				{
-					"a":"FLOU CARIBEÃ‘O",
-					"logo_url":"http://i.ibb.co/j5pLJYG/flou-caribe-o.png",
-					"stream_url":"http://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01365-spanglishmovies-floucaribedistro-distrotv/playlist.m3u8"
-				},
+				
 				{
 					"a":"HTV",
 					"logo_url":"http://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1200px-Htv_logo.svg.png",
@@ -655,16 +638,6 @@
 					"a":"LA BOCINA LATINA",
 					"logo_url":"http://i.ibb.co/KW7fckh/la-bocina-latina.png",
 					"stream_url":"http://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/la-bocina-latina/master.m3u8"
-				},
-				{
-					"a":"MI GENTE 3.0",
-					"logo_url":"http://i.ibb.co/QMJ9YNS/mi-gente-3-0.png",
-					"stream_url":"http://byecableiptvnew3.ddns.net:443/ENVIVOMIGENTE/index.m3u8"
-				},
-				{
-					"a":"MMC",
-					"logo_url":"http://i.ibb.co/j6PX0j9/freetv-banda-1080x1080-02092024.jpg",
-					"stream_url":"http://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-mmc-distro/playlist.m3u8"
 				},
 				{
 					"a":"MTV",
@@ -678,57 +651,17 @@
 					"stream_url":"http://cdn.cvattv.com.ar/live/c7eds/MTV00/SA_Live_dash_enc_C/MTV00.mpd",
 					"drm_id":"2145439351"
 				},
-				{
-					"a":"MTV 80s",
-					"logo_url":"http://upload.wikimedia.org/wikipedia/commons/5/5e/MTV_80s_%282020%29.png",
-					"stream_url":"http://webtvstream.bhtelecom.ba/hls18/mtv_80s.mpd?n=fIywBW0QQGm8IF3FrBnHh1:APA91bFQ2Ae7cZNm0rV3cd_fiV4OmX4dObMJbHr7ntUl0K33d0PIu4D4xuZ0CY3nzqLY6WHY12g6Sy4g1n-x9CTLjkHSffmyDI9IkR6Pt0k-wvwpa6dEaOx3K3Lb7L49M8wamqlwgi-v",
-					"drm_id":"1141263692"
-				},
-				{
-					"a":"MTV 90s",
-					"logo_url":"http://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/MTV_90s_2022.svg/681px-MTV_90s_2022.svg.png",
-					"stream_url":"http://webtvstream.bhtelecom.ba/hls16/mtv_90s.mpd?n=fIywBW0QQGm8IF3FrBnHh1:APA91bFQ2Ae7cZNm0rV3cd_fiV4OmX4dObMJbHr7ntUl0K33d0PIu4D4xuZ0CY3nzqLY6WHY12g6Sy4g1n-x9CTLjkHSffmyDI9IkR6Pt0k-wvwpa6dEaOx3K3Lb7L49M8wamqlwgi-v",
-					"drm_id":"1141263692"
-				},
-				{
-					"a":"MTV CLASSIC US",
-					"logo_url":"http://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/MTV_Classic_2017_logo.svg/783px-MTV_Classic_2017_logo.svg.png",
-					"stream_url":"http://archive.org/download/3_20231204_20231204_1810/mtv-classic.m3u8"
-				},
-				{
-					"a":"MTV CLUB",
-					"logo_url":"http://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Club_MTV_2021_logo.svg/505px-Club_MTV_2021_logo.svg.png",
-					"stream_url":"http://webtvstream.bhtelecom.ba/hls19/club_mtv.mpd?n=fIywBW0QQGm8IF3FrBnHh1:APA91bFQ2Ae7cZNm0rV3cd_fiV4OmX4dObMJbHr7ntUl0K33d0PIu4D4xuZ0CY3nzqLY6WHY12g6Sy4g1n-x9CTLjkHSffmyDI9IkR6Pt0k-wvwpa6dEaOx3K3Lb7L49M8wamqlwgi-v",
-					"drm_id":"1141263692"
-				},
+				
+		
 				{
 					"a":"MTV HITS",
 					"logo_url":"http://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/MTV_Hits_2017_logo.svg/1200px-MTV_Hits_2017_logo.svg.png",
 					"stream_url":"http://cdn.cvattv.com.ar/live/c6eds/MTV_Hits/SA_Live_dash_enc_C/MTV_Hits.mpd",
 					"drm_id":"158079873"
 				},
-				{
-					"a":"MTV HITS",
-					"logo_url":"http://i.ibb.co/RB2c6Xx/245px-MTV-Hits-2017-logo-svg.png",
-					"stream_url":"http://webtvstream.bhtelecom.ba/hls7/mtv_hits.mpd?n=fIywBW0QQGm8IF3FrBnHh1:APA91bFQ2Ae7cZNm0rV3cd_fiV4OmX4dObMJbHr7ntUl0K33d0PIu4D4xuZ0CY3nzqLY6WHY12g6Sy4g1n-x9CTLjkHSffmyDI9IkR6Pt0k-wvwpa6dEaOx3K3Lb7L49M8wamqlwgi-v",
-					"drm_id":"1141263692"
-				},
-				{
-					"a":"MTV LIVE",
-					"logo_url":"http://i.ibb.co/PtwhNh7/mtvlive.png",
-					"stream_url":"http://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(MTV_LIVE_HD)/index.m3u8"
-				},
-				{
-					"a":"MTV ROCKZONE",
-					"logo_url":"http://i.ibb.co/1vkNfcg/mtv-rockzone.png",
-					"stream_url":"http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6245cdb15d931000073ee4ff/master.m3u8?deviceType=0&deviceMake=0&deviceModel=0&deviceVersion=0&appVersion=0&deviceDNT=0"
-				},
-				{
-					"a":"MUCH MUSIC",
-					"logo_url":"http://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/MuchMusicLA_%282007%29.svg/240px-MuchMusicLA_%282007%29.svg.png",
-					"stream_url":"http://cdn.cvattv.com.ar/live/c6eds/Much_Music/SA_Live_dash_enc_C/Much_Music.mpd",
-					"drm_id":"3505591543"
-				},
+				
+			
+					
 				{
 					"a":"MUSIC TOP",
 					"logo_url":"http://i.ibb.co/rfDTXwt/music-top.png",
@@ -754,66 +687,37 @@
 					"logo_url":"http://i.ibb.co/LQ4BkD1/Qello-Stingray.png",
 					"stream_url":"http://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray/qello-qello001-montreal/distrotv/master.m3u8"
 				},
-				{
-					"a":"RETRO MUSIC TELEVISION",
-					"logo_url":"http://upload.wikimedia.org/wikipedia/commons/7/7b/Retro_Music_TV_logo.png",
-					"stream_url":"http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8"
-				},
-				{
-					"a":"RETRO PLUS SEÃ‘AL 1",
-					"logo_url":"http://image.roku.com/developer_channels/prod/407b41e3649e464cd4a478c2858e6e2e1b3b85536634ab2188f23eb5402fe438.png",
-					"stream_url":"http://video06.logicahost.com.br/retroplustv/retroplustv/playlist.m3u8"
-				},
-				{
-					"a":"RETRO PLUS SEÃ‘AL 2",
-					"logo_url":"http://image.roku.com/developer_channels/prod/407b41e3649e464cd4a478c2858e6e2e1b3b85536634ab2188f23eb5402fe438.png",
-					"stream_url":"http://video06.logicahost.com.br/retroplussenal2/retroplussenal2/playlist.m3u8"
-				},
-				{
-					"a":"STINGRAY CLASSICA",
-					"logo_url":"http://i.ibb.co/nCkKKQ5/stingray-classica.jpg",
-					"stream_url":"http://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray/classica-cla008-montreal/distrotv/master.m3u8"
-				},
+				
+					
+			
+					
+		
+					
+				
+					
 				{
 					"a":"STINGRAY DJAZZ",
 					"logo_url":"http://i.ibb.co/g6FnxXk/Stingray-Djazz.png",
 					"stream_url":"http://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray/djazz-djaads-montreal/distrotv/master.m3u8"
 				},
-				{
-					"a":"TELEHIT",
-					"logo_url":"http://i.ibb.co/5Y4C401/telehit.png",
-					"stream_url":"http://linear-417.frequency.stream/mt/studio/417/hls/master/playlist.m3u8"
-				},
-				{
-					"a":"TELEHIT MÃšSICA",
-					"logo_url":"http://i.ibb.co/p4243Nf/Telehit-M-sica.png",
-					"stream_url":"http://linear-418.frequency.stream/mt/studio/418/hls/master/playlist.m3u8"
-				},
-				{
-					"a":"TELEHIT MÃšSICA PLUS",
-					"logo_url":"http://i.ibb.co/hg3bxH0/do-download.png",
-					"stream_url":"http://linear-419.frequency.stream/mt/studio/419/hls/master/playlist.m3u8"
-				},
+				
+					
+				
+					
 				{
 					"a":"TELERITMO",
 					"logo_url":"http://i.ibb.co/ySxjmnL/teleritmo.png",
 					"stream_url":"http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8"
 				},
-				{
-					"a":"TOP LATINO TV",
-					"logo_url":"http://upload.wikimedia.org/wikipedia/commons/3/3d/LOGO_TOP_LATINO_PNG_2017_-_500px.png",
-					"stream_url":"http://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/playlist.m3u8"
-				},
+				
+					
 				{
 					"a":"TOP TV",
 					"logo_url":"http://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Top_TV_logo.svg/768px-Top_TV_logo.svg.png",
 					"stream_url":"http://isaocorp.cloudecast.com/toptv/tracks-v1a1/mono.m3u8"
 				},
-				{
-					"a":"TRACE BRASIL",
-					"logo_url":"http://upload.wikimedia.org/wikipedia/commons/b/b7/Trace_Brasil_logo.PNG",
-					"stream_url":"http://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-brazuca/encrypted.m3u8"
-				},
+				
+					
 				{
 					"a":"TRACE LATINA",
 					"logo_url":"http://upload.wikimedia.org/wikipedia/commons/thumb/0/04/TRACE_Latina_Logo.png/1024px-TRACE_Latina_Logo.png",
@@ -824,51 +728,15 @@
 					"logo_url":"http://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Trace_Urban_logo_2010.svg/1024px-Trace_Urban_logo_2010.svg.png",
 					"stream_url":"http://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-urban/encrypted.m3u8"
 				},
-				{
-					"a":"VEVO 2K",
-					"logo_url":"http://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Vevo_2016_logo.png/320px-Vevo_2016_logo.png",
-					"stream_url":"http://d2yhuqxy1ky6ij.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bel4aqksrgol2-ssai-prd/playlist.m3u8"
-				},
-				{
-					"a":"VEVO LATINO",
-					"logo_url":"http://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Vevo_2016_logo.png/320px-Vevo_2016_logo.png",
-					"stream_url":"http://d1jg19cd16tz4s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-nx7h5jeuhw79b-ssai-prd/playlist.m3u8"
-				},
-				{
-					"a":"VEVO POP",
-					"logo_url":"http://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Vevo_2016_logo.png/320px-Vevo_2016_logo.png",
-					"stream_url":"http://dbrb49pjoymg4.cloudfront.net/10001/99991391/hls/playlist.m3u8?ads.xumo_channelId=99991391"
-				},
-				{
-					"a":"VEVO POP LATINO",
-					"logo_url":"http://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Vevo_2016_logo.png/320px-Vevo_2016_logo.png",
-					"stream_url":"http://d3t95pdz2h4c90.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3yjwupt2bfu30/playlist.m3u8"
-				},
-				{
-					"a":"VEVO RETRO ROCK",
-					"logo_url":"http://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Vevo_2016_logo.png/320px-Vevo_2016_logo.png",
-					"stream_url":"http://d1uttzwuh34h7x.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5wuvgw5l0sw7j/playlist.m3u8"
-				},
-				{
-					"a":"VEVO Â´70s",
-					"logo_url":"http://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Vevo_2016_logo.png/320px-Vevo_2016_logo.png",
-					"stream_url":"http://d9a7gn34udfwh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x1td8h8f4kkdh/playlist.m3u8"
-				},
-				{
-					"a":"VEVO Â´80s",
-					"logo_url":"http://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Vevo_2016_logo.png/320px-Vevo_2016_logo.png",
-					"stream_url":"http://d36tolctzl3cf9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ooxwuk06xi7af/playlist.m3u8"
-				},
-				{
-					"a":"VEVO Â´90s",
-					"logo_url":"http://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Vevo_2016_logo.png/320px-Vevo_2016_logo.png",
-					"stream_url":"http://d36vl7sxn34m5q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-m63zgwps7b87g/playlist.m3u8"
-				},
-				{
-					"a":"VIVALDI TV",
-					"logo_url":"http://www.thematv.com/images/channels/vivaldi.png",
-					"stream_url":"http://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01297-themahqfranceme-vivalditv-samsungspain/playlist.m3u8"
-				},
+				
+					
+				
+					
+				
+					
+				
+	
+					
 				{
 					"a":"XITE 80s FLASHBACK",
 					"logo_url":"http://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Xite_Logo_New.jpg/240px-Xite_Logo_New.jpg",
@@ -895,11 +763,8 @@
 					"stream_url":"http://cdn.cvattv.com.ar/live/c4eds/5_Dias_PY/SA_Live_dash_enc_C/5_Dias_PY.mpd",
 					"drm_id":"2974203958"
 				},
-				{
-					"a":"ABC TV",
-					"logo_url":"http://clarovideocdn2.clarovideo.net/CVPERU/PELICULAS/ABCTV/EXPORTACION_WEB/SS/ABCTV_t-290x163.png",
-					"stream_url":"http://abc-color.cdn.vustreams.com/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8"
-				},
+				
+					
 				{
 					"a":"ABC TV FLOW",
 					"logo_url":"http://static.flow.com.ar/images/7681/CH_LOGO/60/40/0/0/93493116074020.png",
@@ -1100,22 +965,16 @@
 					"logo_url":"http://static.tvar.io/imagenes/13maxdigital.png",
 					"stream_url":"http://coninfo.net:1935/13maxhd/live13maxtvnuevo_720p/chunklist_w247540946.m3u8"
 				},
-				{
-					"a":"AMERICA TUCUMAN",
-					"logo_url":"http://americatucuman.com/wp-content/uploads/2020/03/LOGO-AMERICA-TUCUMAN-2020.png",
-					"stream_url":"http://m.mtd.llc/iptv-query.m3u8?streaming-ip=http://www.youtube.com/@AmericaTucuman/live"
-				},
+				
+					
 				{
 					"a":"ARGENTINISIMA SATELITAL",
 					"logo_url":"http://i.ibb.co/G0zCDL0/descarga-1.png",
 					"stream_url":"http://cdn.cvattv.com.ar/live/c6eds/Argentinisima/SA_Live_dash_enc_C/Argentinisima.mpd",
 					"drm_id":"2864015878"
 				},
-				{
-					"a":"BRAGADO TV",
-					"logo_url":"http://www.bragadotv.com.ar/images/custom/logo-social.jpg",
-					"stream_url":"http://54.39.21.129/hls/222_.m3u8"
-				},
+				
+					
 				{
 					"a":"BRAVO TV",
 					"logo_url":"http://i.ibb.co/5nJff9s/cronica-Bravo-TV.jpg",
@@ -1156,42 +1015,22 @@
 					"logo_url":"http://i.ibb.co/1ZC4K4q/Canal-13-La-Rioja.png",
 					"stream_url":"http://arcast.net:1935/mp/mp/playlist.m3u8"
 				},
-				{
-					"a":"CANAL 13 RIO CUARTO",
-					"logo_url":"http://static.tvar.io/imagenes/canal13riocuarto.jpg",
-					"stream_url":"http://stmvideo2.livecastv.com/telediario/telediario/playlist.m3u8"
-				},
-				{
-					"a":"CANAL 13 RIO CUARTO",
-					"logo_url":"http://static.tvar.io/imagenes/canal13riocuarto.jpg",
-					"stream_url":"http://stmvideo2.livecastv.com/telediario/telediario/playlist.m3u8"
-				},
-				{
-					"a":"Canal 2 Jujuy",
-					"logo_url":"http://i.ibb.co/XLJ5cc3/descarga-1.png",
-					"stream_url":"http://api.new.livestream.com/accounts/679322/events/3782013/live.m3u8"
-				},
-				{
-					"a":"CANAL 2 SALTA",
-					"logo_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCcnRIcUhGDREH6gXZ9y_LEvXC0KHs1Zj9r7l3QHNEAg&s",
-					"stream_url":"http://vivo.solumedia.com:19360/tv2salta/tv2salta.m3u8"
-				},
-				{
-					"a":"Canal 22 Buenos Aires",
-					"logo_url":"http://static.wikia.nocookie.net/tvficticia/images/9/94/Canal22.png/revision/latest?cb=20230606194222&path-prefix=es",
-					"stream_url":"http://5f700d5b2c46f.streamlock.net:443/canal22/canal22/playlist.m3u8?PlaylistM3UCL"
-				},
+				
+					
+				
+					
+				
+					
+				
+					
 				{
 					"a":"CANAL 3 ROSARIO",
 					"logo_url":"http://static.tvar.io/imagenes/canal3rosario.png",
 					"stream_url":"http://cdn.cvattv.com.ar/live/c3eds/Canal_3_Rosario/SA_Live_dash_enc_C/Canal_3_Rosario.mpd",
 					"drm_id":"1026907467"
 				},
-				{
-					"a":"Canal 30 San juan",
-					"logo_url":"http://static.tvar.io/imagenes/canal30sanjuan.png",
-					"stream_url":"http://y.tvar.io/iptv-query.m3u8?streaming-ip=http://www.youtube.com/@canal30sanjuantv"
-				},
+				
+					
 				{
 					"a":"Canal 34 San juan",
 					"logo_url":"http://static.tvar.io/imagenes/34sanjuan.png",
@@ -1202,47 +1041,26 @@
 					"logo_url":"http://static.tvar.io/imagenes/canal4jujuy.png",
 					"stream_url":"http://5cd577a3dd8ec.streamlock.net/canal4/smil:manifest.smil/playlist.m3u8"
 				},
-				{
-					"a":"Canal 4 San Juan",
-					"logo_url":"http://static.tvar.io/imagenes/canal4sanjuan.png",
-					"stream_url":"http://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8"
-				},
-				{
-					"a":"CANAL 6 POSADAS",
-					"logo_url":"http://upload.wikimedia.org/wikipedia/commons/e/e2/C6Digital.png",
-					"stream_url":"http://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8"
-				},
-				{
-					"a":"CANAL 7 JUJUY",
-					"logo_url":"http://i.ibb.co/ZGSTNsG/canal7jujuy.png",
-					"stream_url":"http://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8"
-				},
-				{
-					"a":"CANAL 7 SALTA",
-					"logo_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc77SozKmDS4lV4PEcfXbOMwtAj_4D4SXrj5USpPUfiA&s",
-					"stream_url":"http://vivo.solumedia.com:19360/cooperativa/cooperativa.m3u8"
-				},
-				{
-					"a":"Canal 8 San Juan",
-					"logo_url":"http://static.tvar.io/imagenes/canalochosanjuan.png",
-					"stream_url":"http://mtd.llc/canal8sanjuan.m3u8"
-				},
-				{
-					"a":"Canal 8 San Juan",
-					"logo_url":"http://static.tvar.io/imagenes/canalochosanjuan.png",
-					"stream_url":"http://m.mtd.llc/iptv-query.m3u8?url=http://www.youtube.com/@canal8sanjuan904/live"
-				},
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
 				{
 					"a":"CANAL 8 TUCUMAN",
 					"logo_url":"http://upload.wikimedia.org/wikipedia/commons/b/b1/Elocho_TV_nuevo_logo.png",
 					"stream_url":"http://cdn.cvattv.com.ar/live/c7eds/Canal_8_Tucuman/SA_Live_dash_enc_C/Canal_8_Tucuman.mpd",
 					"drm_id":"121440644"
 				},
-				{
-					"a":"Canal 9 la Rioja",
-					"logo_url":"http://static.tvar.io/imagenes/canal9larioja.png",
-					"stream_url":"http://inliveserver.com:1936/17012/17012/playlist.m3u8"
-				},
+				
+					
 				{
 					"a":"CANAL NUEVE TELEVIDA",
 					"logo_url":"http://www.elnueve.com/images/logo-canal-9-televida-mendoza.png",
@@ -1256,63 +1074,36 @@
 				{
 					"a":"CHAMAME TV CORRIENTES",
 					"logo_url":"http://static-cdn.jtvnw.net/jtv_user_pictures/c14e9545-b484-473a-b31d-680b95e4de4c-profile_image-70x70.png",
-					"stream_url":"http://srv2.zcast.com.br/chamame/chamame/playlist.m3u8"
+					"stream_url":"http://srv4.zcast.com.br/chamametv/chamametv/playlist.m3u8"
 				},
-				{
-					"a":"Chilecito TV (480p)",
-					"logo_url":"http://diariochilecito.com/wp-content/uploads/2022/09/Chilecito-TV.jpg",
-					"stream_url":"http://vivo.solumedia.com:19360/grupoemail/grupoemail.m3u8"
-				},
-				{
-					"a":"El Siete TV",
-					"logo_url":"http://www.elsietetv.com.ar/wp-content/uploads/2017/08/canal-7-vivo.jpg",
-					"stream_url":"http://m.mtd.llc/iptv-query.m3u8?url=http://www.youtube.com/c/CanalSieteMendoza1/live"
-				},
-				{
-					"a":"elpringlense",
-					"logo_url":"http://i.ibb.co/VtK5R3B/Whats-App-Image-2023-08-09-at-8-41-47-PM.jpg",
-					"stream_url":"http://videostream.shockmedia.com.ar:19360/elpringlense/elpringlense.m3u8"
-				},
-				{
-					"a":"GEN TV",
-					"logo_url":"http://latinartv.com/sites/default/files/logos/gentv.jpg",
-					"stream_url":"http://inliveserver.com:1936/14056/14056/playlist.m3u8"
-				},
+				
+					
+				
+					
+				
+					
+				
+					
 				{
 					"a":"LITUS TV",
 					"logo_url":"",
 					"stream_url":"http://192.99.38.174:1935/litustv/ngrp:litustv_all/playlist.m3u8"
 				},
-				{
-					"a":"MULTIPLATAFORMA FENIX LA RIOJA",
-					"logo_url":"http://static.tvar.io/imagenes/fenixtv.jpeg",
-					"stream_url":"http://stmvideo1.livecastv.com/fenixlarioja/fenixlarioja/playlist.m3u8"
-				},
-				{
-					"a":"Multivision Cable",
-					"logo_url":"http://static.tvar.io/imagenes/multivisioncable.jpg",
-					"stream_url":"http://videostream.shockmedia.com.ar:19360/multivisioncable/multivisioncable.m3u8"
-				},
+				
+					
+				
+					
 				{
 					"a":"RTV Neuquen",
 					"logo_url":"http://i.ibb.co/Fqf4R9T/descarga.jpg",
 					"stream_url":"http://media.neuquen.gov.ar/rtn/television/playlist.m3u8"
 				},
-				{
-					"a":"San Luis",
-					"logo_url":"http://i5o948.p3cdn1.secureserver.net/wp-content/uploads/2020/05/LOGO-PARA-FONDO-COLOR.png",
-					"stream_url":"http://stream.arcast.net:4443/sanluistv/ngrp:sanluistv_all/chunklist_w1204601192_b301200.m3u8"
-				},
-				{
-					"a":"SILVER CHANNEL",
-					"logo_url":"http://iot.org.ar/wp-content/uploads/2020/12/logo-silver-channel.jpg",
-					"stream_url":"http://panel.dattalive.com/8158/8158/chunklist_w747032926.m3u8"
-				},
-				{
-					"a":"SILVER CHANNEL",
-					"logo_url":"http://iot.org.ar/wp-content/uploads/2020/12/logo-silver-channel.jpg",
-					"stream_url":"http://panel.dattalive.com/8158/8158/chunklist_w747032926.m3u8"
-				},
+				
+					
+				
+					
+				
+					
 				{
 					"a":"SPTV SAN PEDRO",
 					"logo_url":"http://static.tvar.io/imagenes/sptv32.png",
@@ -1328,16 +1119,10 @@
 					"logo_url":"",
 					"stream_url":"http://www.coninfo.net:1935/previsoratv/live/playlist.m3u8"
 				},
-				{
-					"a":"Telesol San Juan",
-					"logo_url":"http://static.tvar.io/imagenes/telesol.png",
-					"stream_url":"http://cnnsanjuan.com:9999/live/telesol/woplay/telesoludp2_720p/chunks.m3u8"
-				},
-				{
-					"a":"Telesol San Juan",
-					"logo_url":"http://static.tvar.io/imagenes/telesol.png",
-					"stream_url":"http://m.mtd.llc/iptv-query.m3u8?streaming-ip=http://www.youtube.com/@Telesolsj/live"
-				}
+				
+					
+				
+					
 			]
 		},
 		{
@@ -1349,12 +1134,8 @@
 					"stream_url":"http://cdn.cvattv.com.ar/live/c6eds/Antena_3/SA_Live_dash_enc_C/Antena_3.mpd",
 					"drm_id":"3008931476"
 				},
-				{
-					"a":"ARIRANG TV",
-					"logo_url":"http://i.ibb.co/6w69CWc/arirang.png",
-					"stream_url":"http://webtvstream.bhtelecom.ba/hls10/arirang_tv.mpd?n=fIywBW0QQGm8IF3FrBnHh1:APA91bFQ2Ae7cZNm0rV3cd_fiV4OmX4dObMJbHr7ntUl0K33d0PIu4D4xuZ0CY3nzqLY6WHY12g6Sy4g1n-x9CTLjkHSffmyDI9IkR6Pt0k-wvwpa6dEaOx3K3Lb7L49M8wamqlwgi-v",
-					"drm_id":"1141263692"
-				},
+				
+					
 				{
 					"a":"AZTECA INTERNACIONAL",
 					"logo_url":"http://upload.wikimedia.org/wikipedia/commons/e/eb/Azteca_Internacional_logo_2023.png",
@@ -1429,11 +1210,8 @@
 					"stream_url":"http://cdn.cvattv.com.ar/live/c6eds/Tv_Chile/SA_Live_dash_enc_C/Tv_Chile.mpd",
 					"drm_id":"4174354115"
 				},
-				{
-					"a":"UNIVISION",
-					"logo_url":"http://78.47.174.211/logos/univision.png",
-					"stream_url":"http://linear-424.frequency.stream/mt/studio/424/hls/master/playlist.m3u8"
-				}
+				
+					
 			]
 		},
 		{
