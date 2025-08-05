@@ -495,7 +495,9 @@
 					"logo_url":"http://i.ibb.co/zxjmbLC/toonz-kids.png",
 					"stream_url":"http://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/toonzkids-spanish/master.m3u8"
 				},
-				
+			]
+
+},
 		{
 			"a":"GH CULTURA",
 			"b":[
@@ -583,25 +585,18 @@
 					"stream_url":"http://cdn.cvattv.com.ar/live/c6eds/History_2/SA_Live_dash_enc_C/History_2.mpd",
 					"drm_id":"3157732055"
 				},
-				
 				{
 					"a":"NATIONAL GEOGRAPHIC",
 					"logo_url":"http://i.ibb.co/tmGdKgj/natgeo.png",
 					"stream_url":"http://cdn.cvattv.com.ar/live/c3eds/NatGeoHD/SA_Live_dash_enc_C/NatGeoHD.mpd",
 					"drm_id":"1499438246"
 				},
-				
 				{
 					"a":"SUN CHANNEL",
 					"logo_url":"http://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Sun_Channel_logo.svg/240px-Sun_Channel_logo.svg.png",
 					"stream_url":"http://cdn.cvattv.com.ar/live/c6eds/Sun_Channel/SA_Live_dash_enc_C/Sun_Channel.mpd",
 					"drm_id":"3953687911"
-				},
-		
-			]
-		},		
-				
-				
+				},	
 			]
 		},
 		{
