@@ -607,14 +607,12 @@
 					"stream_url":"http://cdn.cvattv.com.ar/live/c7eds/AllegroHD/SA_Live_dash_enc_C/AllegroHD.mpd",
 					"drm_id":"1876330028"
 				},
-				
 				{
 					"a":"CANAL DE MUSICA",
 					"logo_url":"http://1.bp.blogspot.com/-_tE8VO8HMnA/X0_XRjluTAI/AAAAAAAA6Ts/-pyWu9d-VyAKrBlIG1S84e2hVSWEfoHagCLcBGAsYHQ/s0/cm-elcanaldelamusica.png",
 					"stream_url":"http://cdn.cvattv.com.ar/live/c6eds/CM/SA_Live_dash_enc_C/CM.mpd",
 					"drm_id":"1870656474"
 				},
-				
 				{
 					"a":"QUIERO MUSICA",
 					"logo_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR6rqeT-_cYSHMEAqDNtJQK6W3LZs52yVOGA&s",
@@ -627,7 +625,6 @@
 					"stream_url":"http://cdn.cvattv.com.ar/live/c6eds/Vorterix/SA_Live_dash_enc_C/Vorterix.mpd",
 					"drm_id":"2644790261"
 				},
-				
 				{
 					"a":"HTV",
 					"logo_url":"http://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1200px-Htv_logo.svg.png",
@@ -651,17 +648,12 @@
 					"stream_url":"http://cdn.cvattv.com.ar/live/c7eds/MTV00/SA_Live_dash_enc_C/MTV00.mpd",
 					"drm_id":"2145439351"
 				},
-				
-		
 				{
 					"a":"MTV HITS",
 					"logo_url":"http://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/MTV_Hits_2017_logo.svg/1200px-MTV_Hits_2017_logo.svg.png",
 					"stream_url":"http://cdn.cvattv.com.ar/live/c6eds/MTV_Hits/SA_Live_dash_enc_C/MTV_Hits.mpd",
 					"drm_id":"158079873"
-				},
-				
-			
-					
+				},	
 				{
 					"a":"MUSIC TOP",
 					"logo_url":"http://i.ibb.co/rfDTXwt/music-top.png",
@@ -686,38 +678,22 @@
 					"a":"QELLO CONCERTS BY STINGRAY",
 					"logo_url":"http://i.ibb.co/LQ4BkD1/Qello-Stingray.png",
 					"stream_url":"http://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray/qello-qello001-montreal/distrotv/master.m3u8"
-				},
-				
-					
-			
-					
-		
-					
-				
-					
+				},	
 				{
 					"a":"STINGRAY DJAZZ",
 					"logo_url":"http://i.ibb.co/g6FnxXk/Stingray-Djazz.png",
 					"stream_url":"http://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray/djazz-djaads-montreal/distrotv/master.m3u8"
-				},
-				
-					
-				
-					
+				},	
 				{
 					"a":"TELERITMO",
 					"logo_url":"http://i.ibb.co/ySxjmnL/teleritmo.png",
 					"stream_url":"http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8"
-				},
-				
-					
+				},	
 				{
 					"a":"TOP TV",
 					"logo_url":"http://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Top_TV_logo.svg/768px-Top_TV_logo.svg.png",
 					"stream_url":"http://isaocorp.cloudecast.com/toptv/tracks-v1a1/mono.m3u8"
-				},
-				
-					
+				},	
 				{
 					"a":"TRACE LATINA",
 					"logo_url":"http://upload.wikimedia.org/wikipedia/commons/thumb/0/04/TRACE_Latina_Logo.png/1024px-TRACE_Latina_Logo.png",
@@ -727,16 +703,7 @@
 					"a":"TRACE URBAN",
 					"logo_url":"http://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Trace_Urban_logo_2010.svg/1024px-Trace_Urban_logo_2010.svg.png",
 					"stream_url":"http://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-urban/encrypted.m3u8"
-				},
-				
-					
-				
-					
-				
-					
-				
-	
-					
+				},	
 				{
 					"a":"XITE 80s FLASHBACK",
 					"logo_url":"http://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Xite_Logo_New.jpg/240px-Xite_Logo_New.jpg",
@@ -752,9 +719,10 @@
 					"logo_url":"http://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Xite_Logo_New.jpg/240px-Xite_Logo_New.jpg",
 					"stream_url":"http://dri82941jql2y.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/RockMetal-prod/playlist.m3u8"
 				}
-			]
-		},
-		{
+
+                              ]
+		           },
+		         {
 			"a":"GH PARAGUAY",
 			"b":[
 				{
@@ -762,9 +730,7 @@
 					"logo_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFdkSYeQWCAiOfwvbcT8MiabXYI6ehMHTw3A&s",
 					"stream_url":"http://cdn.cvattv.com.ar/live/c4eds/5_Dias_PY/SA_Live_dash_enc_C/5_Dias_PY.mpd",
 					"drm_id":"2974203958"
-				},
-				
-					
+				},	
 				{
 					"a":"ABC TV FLOW",
 					"logo_url":"http://static.flow.com.ar/images/7681/CH_LOGO/60/40/0/0/93493116074020.png",
@@ -860,9 +826,9 @@
 					"stream_url":"http://cdn.cvattv.com.ar/live/c7eds/Universo/SA_Live_dash_enc_C/Universo.mpd",
 					"drm_id":"889208516"
 				}
-			]
-		},
-		{
+			      ]
+		           },
+		        {
 			"a":"GH PACK PREMIUM UNIVERSAL Y HBO",
 			"b":[
 				{
@@ -955,26 +921,22 @@
 					"stream_url":"http://cdn.cvattv.com.ar/live/c6eds/Universal_Channel_HD/SA_Live_dash_enc_C/Universal_Channel_HD.mpd",
 					"drm_id":"817958668"
 				}
-			]
-		},		
-		{
+			      ]
+		           },		
+		         {
 			"a":"INTERIOR DE ARGENTINA",
 			"b":[
 				{
 					"a":"13 Max Televisi\u00f3n",
 					"logo_url":"http://static.tvar.io/imagenes/13maxdigital.png",
 					"stream_url":"http://coninfo.net:1935/13maxhd/live13maxtvnuevo_720p/chunklist_w247540946.m3u8"
-				},
-				
-					
+				},	
 				{
 					"a":"ARGENTINISIMA SATELITAL",
 					"logo_url":"http://i.ibb.co/G0zCDL0/descarga-1.png",
 					"stream_url":"http://cdn.cvattv.com.ar/live/c6eds/Argentinisima/SA_Live_dash_enc_C/Argentinisima.mpd",
 					"drm_id":"2864015878"
-				},
-				
-					
+				},	
 				{
 					"a":"BRAVO TV",
 					"logo_url":"http://i.ibb.co/5nJff9s/cronica-Bravo-TV.jpg",
@@ -1014,23 +976,13 @@
 					"a":"Canal 13 La Rioja",
 					"logo_url":"http://i.ibb.co/1ZC4K4q/Canal-13-La-Rioja.png",
 					"stream_url":"http://arcast.net:1935/mp/mp/playlist.m3u8"
-				},
-				
-					
-				
-					
-				
-					
-				
-					
+				},	
 				{
 					"a":"CANAL 3 ROSARIO",
 					"logo_url":"http://static.tvar.io/imagenes/canal3rosario.png",
 					"stream_url":"http://cdn.cvattv.com.ar/live/c3eds/Canal_3_Rosario/SA_Live_dash_enc_C/Canal_3_Rosario.mpd",
 					"drm_id":"1026907467"
-				},
-				
-					
+				},	
 				{
 					"a":"Canal 34 San juan",
 					"logo_url":"http://static.tvar.io/imagenes/34sanjuan.png",
@@ -1040,27 +992,13 @@
 					"a":"CANAL 4 JUJUY",
 					"logo_url":"http://static.tvar.io/imagenes/canal4jujuy.png",
 					"stream_url":"http://5cd577a3dd8ec.streamlock.net/canal4/smil:manifest.smil/playlist.m3u8"
-				},
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
+				},	
 				{
 					"a":"CANAL 8 TUCUMAN",
 					"logo_url":"http://upload.wikimedia.org/wikipedia/commons/b/b1/Elocho_TV_nuevo_logo.png",
 					"stream_url":"http://cdn.cvattv.com.ar/live/c7eds/Canal_8_Tucuman/SA_Live_dash_enc_C/Canal_8_Tucuman.mpd",
 					"drm_id":"121440644"
-				},
-				
-					
+				},	
 				{
 					"a":"CANAL NUEVE TELEVIDA",
 					"logo_url":"http://www.elnueve.com/images/logo-canal-9-televida-mendoza.png",
@@ -1075,35 +1013,17 @@
 					"a":"CHAMAME TV CORRIENTES",
 					"logo_url":"http://static-cdn.jtvnw.net/jtv_user_pictures/c14e9545-b484-473a-b31d-680b95e4de4c-profile_image-70x70.png",
 					"stream_url":"http://srv4.zcast.com.br/chamametv/chamametv/playlist.m3u8"
-				},
-				
-					
-				
-					
-				
-					
-				
-					
+				},	
 				{
 					"a":"LITUS TV",
 					"logo_url":"",
 					"stream_url":"http://192.99.38.174:1935/litustv/ngrp:litustv_all/playlist.m3u8"
-				},
-				
-					
-				
-					
+				},	
 				{
 					"a":"RTV Neuquen",
 					"logo_url":"http://i.ibb.co/Fqf4R9T/descarga.jpg",
 					"stream_url":"http://media.neuquen.gov.ar/rtn/television/playlist.m3u8"
-				},
-				
-					
-				
-					
-				
-					
+				},	
 				{
 					"a":"SPTV SAN PEDRO",
 					"logo_url":"http://static.tvar.io/imagenes/sptv32.png",
@@ -1118,14 +1038,10 @@
 					"a":"TELE NORT CORRIENTES",
 					"logo_url":"",
 					"stream_url":"http://www.coninfo.net:1935/previsoratv/live/playlist.m3u8"
-				},
-				
-					
-				
-					
-			]
-		},
-		{
+				},		
+			    ]
+		       },
+		     {
 			"a":"GH TELEVISIÃ“N INTERNACIONAL",
 			"b":[
 				{
@@ -1133,9 +1049,7 @@
 					"logo_url":"http://i.ibb.co/m6dKvL5/antena3.png",
 					"stream_url":"http://cdn.cvattv.com.ar/live/c6eds/Antena_3/SA_Live_dash_enc_C/Antena_3.mpd",
 					"drm_id":"3008931476"
-				},
-				
-					
+				},	
 				{
 					"a":"AZTECA INTERNACIONAL",
 					"logo_url":"http://upload.wikimedia.org/wikipedia/commons/e/eb/Azteca_Internacional_logo_2023.png",
@@ -1209,12 +1123,10 @@
 					"logo_url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Logotipo_de_TV_Chile.svg/1171px-Logotipo_de_TV_Chile.svg.png",
 					"stream_url":"http://cdn.cvattv.com.ar/live/c6eds/Tv_Chile/SA_Live_dash_enc_C/Tv_Chile.mpd",
 					"drm_id":"4174354115"
-				},
-				
-					
-			]
-		},
-		{
+				},		
+			 ]
+		      },
+		    {
 			"a":"GH NOVELAS y VARIEDADES",
 			"b":[
 				{
