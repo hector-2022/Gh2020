@@ -30,7 +30,7 @@ https://cdn.cvattv.com.ar/live/c6eds/Canal7/SA_Live_dash_enc/Canal7.mpd?|Origin=
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=103ce214b4d04c8eb4dd43670e956dad:20e030576b8dc4df0d1c68e16af3bc0f
 #EXTINF:-1 tvg-id="Telefe Cordoba.ar" tvg-name="Telefe Cordoba.ar" tvg-logo="https://git.io/JOTOu" group-title="Córdoba" ch-number="8" type="channel",Telefé Córdoba
-https://cdn-py.cvattv.com.ar/live/c6eds/Canal_8_CBA/SA_Live_dash_enc/Canal_8_CBA.mpd?|Origin=https://web.app.flow.com.ar
+https://cdn-py.cvattv.com.ar/live/c6eds/Canal_8_CBA/SA_Live_dash_enc/Canal_8_CBA.mpd?|Origin=https://web.app.flow.com.py
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=24f4ff211136ae6512a1b552200db405:602122f8426c5c942b8c18d299cc6020
