@@ -223,81 +223,12 @@
 					"a":"UFC",
 					"logo_url":"http://logowik.com/content/uploads/images/ufc-ultimate-fighting-championship3349.jpg",
 					"stream_url":"http://dbrb49pjoymg4.cloudfront.net/10001/99951134/hls/playlist.m3u8?ads.xumo_channelId=99951134"
-				},
+				
                    {
 	
-        "name": "ESPN PREMIUM",
-        "uri": "https://cdn.trimi.com.ar/live/sm-live/ESPN_PREM_BKP4/sa_live_dash_ll/ESPN_PREM_BKP4.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=3b6fa6524d254c96b5a101c8118d3ae6&key=d5e2a9d3e2c5aa8587eada281acef6bc",
-        "icono": "https://i.ibb.co/LrNsJsP/espnpremium.png"
-      },
-      {
-        "name": "TNT SPORTS PREMIUM",
-        "uri": "https://cdn.trimi.com.ar/live/sm-live/TNT_SPORTS_BKP4/sa_live_dash_ll/TNT_SPORTS_BKP4.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4c79a27f46f44bfbb774b8c7f1f1e57f&key=530fd0cba9dc556a339b03af4b0951b9",
-        "icono": "https://i.ibb.co/zGzJ3jw/tnt-sports-premium.png"
-      },
-      {
-        "name": "TYC SPORTS",
-        "uri": "https://access.cdn.rcs.net.ar/mnp/tzeohupdr68s7sld3fejjidm9e2hxjoe/output.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=58b7b99c78d841bd841ffcf001a2c397&key=eccfd978965e89e1afe14d7c3b38f7d8",
-        "icono": "https://i.ibb.co/tK20mxz/tycsports.png"
-      },
-      {
-        "name": "FOX SPORTS",
-        "uri": "https://cdn.trimi.com.ar/live/sm-live/FOX_SPORTS_BKP2/sa_live_dash_ll/FOX_SPORTS_BKP2.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=fdc62b44394044f5929d40ef41f425a1&key=bc88342b7940f2f85dbe698cec2639c5",
-        "icono": "https://i.ibb.co/zbWxZ95/fs1.png"
-      },
-      {
-        "name": "FOX SPORTS 2",
-        "uri": "https://cdn.trimi.com.ar/live/sm-live/FOX_SPORTS_2/sa_live_dash/FOX_SPORTS_2.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=fb87b63bd6ea4005b66b41cdaca7ba9b&key=bb54f7132fb47d804723ec429ef65c81",
-        "icono": "https://i.ibb.co/YjrQ0CQ/fs2.png"
-      },
-      {
-        "name": "FOX SPORTS 3",
-        "uri": "https://cdn.trimi.com.ar/live/sm-live/FOX_SPORTS_3_BACKUP/sa_live_dash/FOX_SPORTS_3_BACKUP.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=d2c3554c2f9540849031439326cce8e9&key=f97391f9e36f6f33eed844ebaab72a8f",
-        "icono": "https://i.ibb.co/SBkkDxq/fs3.png"
-      },
-      {
-        "name": "ESPN",
-        "uri": "https://cdn.trimi.com.ar/live/sm-live/ESPN_BKP_V/sa_live_dash_ll/ESPN_BKP_V.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=940f756d43b4420892be348372467319&key=6746cda92bff56869cceb79014c35147",
-        "icono": "https://i.ibb.co/s37NZCT/espn-1B.png"
-      },
-      {
-        "name": "ESPN 2",
-        "uri": "https://cdn.trimi.com.ar/live/sm-live/ESPN_2_BkP/sa_live_dash_ll/ESPN_2_BkP.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=ea7025085a58407e8ff8a0bb30124d5d&key=43e27216f78044dfb0c134faa28029d4",
-        "icono": "https://i.ibb.co/RCMYFsv/espn-2B.png"
-      },
-      {
-        "name": "ESPN 3",
-        "uri": "https://cdn.trimi.com.ar/live/sm-live/ESPN_3/sa_live_dash/ESPN_3.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=a2370ca5b9094aabaadc5e0f4a9679ca&key=a3b13386e6929346c23ca8a48f4cfa9d",
-        "icono": "https://i.ibb.co/TLcGvdv/espn-3B.png"
-      },
-      {
-        "name": "ESPN 4",
-        "uri": "https://cdn.trimi.com.ar/live/sm-live/ESPN_4/sa_live_dash/ESPN_4.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=5ad73320242a4ad2b6eb2426dd3c0a6d&key=78d8e57062ba715bce7a7f0253bc0c96",
-        "icono": "https://i.ibb.co/pJK6xQ0/espn-4B.png"
-
-       }
-     ]
-    },
+    
+              [
+         },
 {
 
 "a":"EVENTOS FLOW HD",
