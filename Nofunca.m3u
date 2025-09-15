@@ -223,7 +223,14 @@
 					"a":"UFC",
 					"logo_url":"http://logowik.com/content/uploads/images/ufc-ultimate-fighting-championship3349.jpg",
 					"stream_url":"http://dbrb49pjoymg4.cloudfront.net/10001/99951134/hls/playlist.m3u8?ads.xumo_channelId=99951134"
-				
+                },
+				{
+                 "name": "ESPN PREMIUM",
+                 "uri": "https://cdn.trimi.com.ar/live/sm-live/ESPN_PREM_BKP4/sa_live_dash_ll/ESPN_PREM_BKP4.mpd",
+                 "drm_scheme": "clearkey",
+                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=3b6fa6524d254c96b5a101c8118d3ae6&key=d5e2a9d3e2c5aa8587eada281acef6bc",
+                 "icono": "https://i.ibb.co/LrNsJsP/espnpremium.png"
+    
                    }
                 ]
              },
