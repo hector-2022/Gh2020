@@ -1206,4 +1206,14 @@ https://stream-cdn-iad3.vaughnsoft.net/play/live_juancine_tv.flv
 #EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.net/profile/0006/simpson_maniahd189.jpg"group-title=",  CINE PELIS
 https://stream-cdn-iad3.vaughnsoft.net/play/live_peliculas_moe.flv
 
+#EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.net/profile/0006/simpson_maniahd189.jpg"group-title=",  CINEMUNDO
+https://stream-cdn-iad3.vaughnsoft.net/play/live_cinemundo_0.flv
 
+#EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.net/profile/0006/simpson_maniahd189.jpg"group-title=",  CINEMUNDO_PLUS
+https://stream-cdn-iad3.vaughnsoft.net/play/live_cinemundo_plus.flv
+
+#EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.net/profile/0006/simpson_maniahd189.jpg"group-title=",  SIMPSON_MEDIA
+https://stream-cdn-iad3.vaughnsoft.net/play/live_simpson_media.flv
+
+#EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.net/profile/0006/simpson_maniahd189.jpg"group-title=",  TERRORASIATICO
+https://stream-cdn-iad3.vaughnsoft.net/play/live_terrorasiatico24h.flv
