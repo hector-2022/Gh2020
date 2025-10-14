@@ -1,8 +1,8 @@
 {
   "categories": [
     {
-      "a": "INFANTIL",
-      "b": [
+      "name": "INFANTIL",
+      "channels": [
         {
           "a": "ZOOMOO",
           "logo_url": "https://geo.edge.pontiscloud.com:9002/images/1812/CH_LOGO/160/160/0/0/10249036073271.png",
