@@ -1,11 +1,11 @@
 {
   "categories": [
     {
-      "name": "Sample Basic",
+      "name": "ZOOMOO",
       "channels": [
         {
           "name": "Channel Basic",
-          "stream_url": "https://d33yiufuiyic30.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-f94huxetzks7d/Vevo_Pop.m3u8"
+          "stream_url": "http://access.cdn.rcs.net.ar/mnp/zoomoo/output.mpd"
     
       }
       ]
