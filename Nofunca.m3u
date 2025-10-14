@@ -13,7 +13,20 @@
 					"logo_url":"https://geo.edge.pontiscloud.com:9002/images/1812/CH_LOGO/160/160/0/0/10249036073271.png",
 					"stream_url":"http://access.cdn.rcs.net.ar/mnp/zoomoo/output.mpd"
 				},
-
+             {
+                  "name": "ESPN PREMIUM",
+                  "uri": "https://cdn.trimi.com.ar/live/sm-live/ESPN_PREM_BKP4/sa_live_dash_ll/ESPN_PREM_BKP4.mpd",
+                  "drm_scheme": "clearkey",
+                  "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=3b6fa6524d254c96b5a101c8118d3ae6&key=d5e2a9d3e2c5aa8587eada281acef6bc",
+                  "icono": "https://i.ibb.co/LrNsJsP/espnpremium.png"
+                },
+            {
+                  "name": "TNT SPORTS PREMIUM",
+                  "uri": "https://cdn.trimi.com.ar/live/sm-live/TNT_SPORTS_BKP4/sa_live_dash_ll/TNT_SPORTS_BKP4.mpd",
+                  "drm_scheme": "clearkey",
+                  "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4c79a27f46f44bfbb774b8c7f1f1e57f&key=530fd0cba9dc556a339b03af4b0951b9",
+                  "icono": "https://i.ibb.co/zGzJ3jw/tnt-sports-premium.png"
+               },
 				{
 					"a":"A24",
 					"logo_url":"http://upload.wikimedia.org/wikipedia/commons/8/82/A24_%282019-1%29.png",
