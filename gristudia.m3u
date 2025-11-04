@@ -797,18 +797,6 @@ https://cdn.sensa.com.ar/bpk-tv/RadioMaria/default/index.mpd?|referer=https://pl
 
 
 
-
-
-
-
-#EXTM3U url-tvg="https://www.temporary-url.com/0FF3,https://www.temporary-url.com/567DBA,https://www.open-epg.com/files/argentina4.xml.gz,https://www.open-epg.com/files/uruguay2.xml.gz"
-
-
-#EXTM3U url-tvg="https://www.temporary-url.com/0FF3,https://www.temporary-url.com/567DBA,https://www.open-epg.com/files/argentina4.xml.gz,https://www.open-epg.com/files/uruguay2.xml.gz"
-
-
-
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTVLCOPT:network-caching=1000 
 #EXTVLCOPT:http-user-agent="FireFox" 
