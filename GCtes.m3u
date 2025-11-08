@@ -1191,6 +1191,10 @@ https://stream-cdn-iad3.vaughnsoft.net/play/live_a_neflix01.flv
 #EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.net/profile/0006/simpson_maniahd189.jpg"group-title=",  TERROR_MANIA
 https://stream-cdn-iad3.vaughnsoft.net/play/live_terror_mania.flv
 
+#EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.net/profile/0006/simpson_maniahd189.jpg"group-title=",  CINEMUNDO PANICO
+https://stream-cdn-iad3.vaughnsoft.net/play/live_cinemundo_panico.flv
+
+
 #EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.net/profile/0006/simpson_maniahd189.jpg"group-title=",  PELICULAS_MANIA
 https://stream-cdn-iad3.vaughnsoft.net/play/live_peliculas_mania.flv
 
