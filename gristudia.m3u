@@ -2165,15 +2165,25 @@ https://cdn.cvattv.com.ar/live/c6eds/Venus/SA_Live_dash_enc/Venus.mpd?|referer=h
 #EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.net/profile/0006/simpson_maniahd189.jpg"group-title=",SIMPSON_MANIAHD193
 https://stream-cdn-iad3.vaughnsoft.net/play/live_simpson_maniahd193.flv
 
+
+
 #EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.net/profile/0006/simpson_maniahd189.jpg"group-title=", NEFLIX_01
 https://stream-cdn-iad3.vaughnsoft.net/play/live_a_neflix01.flv
 
 #EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.net/profile/0006/simpson_maniahd189.jpg"group-title=",  TERROR_MANIA
 https://stream-cdn-iad3.vaughnsoft.net/play/live_terror_mania.flv
 
+#EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.net/profile/0006/simpson_maniahd189.jpg"group-title=",  CINEMUNDO PANICO
+https://stream-cdn-iad3.vaughnsoft.net/play/live_cinemundo_panico.flv
+
+#EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.net/profile/0006/simpson_maniahd189.jpg"group-title=",  CINEMUNDO SAGAS
+https://stream-cdn-iad3.vaughnsoft.net/play/live_cinemundo_sagas.flv
+
+
 
 #EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.net/profile/0006/simpson_maniahd189.jpg"group-title=",  PELICULAS_MANIA
 https://stream-cdn-iad3.vaughnsoft.net/play/live_peliculas_mania.flv
+
 
 #EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.net/profile/0006/simpson_maniahd189.jpg"group-title=", BETO_7HD
 https://stream-cdn-iad3.vaughnsoft.net/play/live_beto_7hd.flv
@@ -2184,8 +2194,8 @@ https://stream-cdn-iad3.vaughnsoft.net/play/live_zonafilmstv.flv
 #EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.net/profile/0006/simpson_maniahd189.jpg"group-title=",  GOKU TV
 https://stream-cdn-iad3.vaughnsoft.net/play/live_goku_tv_oficial.flv
 
-#EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.net/profile/0006/simpson_maniahd189.jpg"group-title=",  GOKU TV Latam
-https://stream-cdn-iad3.vaughnsoft.net/play/live_goku_tv_latam.flv
+#EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.net/profile/0006/simpson_maniahd189.jpg"group-title=",  CIENCIAFICCION01
+https://stream-cdn-iad3.vaughnsoft.net/play/live_cienciaficcion01.flv
 
 #EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.net/profile/0006/simpson_maniahd189.jpg"group-title=",  TUFORTUNATV
 https://stream-cdn-iad3.vaughnsoft.net/play/live_tufortunatv.flv
@@ -2197,14 +2207,20 @@ https://stream-cdn-iad3.vaughnsoft.net/play/live_criticando_pelis3.flv
 #EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.net/profile/0006/simpson_maniahd189.jpg"group-title=",  JUANCINE
 https://stream-cdn-iad3.vaughnsoft.net/play/live_juancine_tv.flv
 
-#EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.net/profile/0006/simpson_maniahd189.jpg"group-title=",  CINE NINO
-https://stream-cdn-iad3.vaughnsoft.net/play/live_ninojack.flv
+#EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.net/profile/0006/simpson_maniahd189.jpg"group-title=",  CINE PELIS
+https://stream-cdn-iad3.vaughnsoft.net/play/live_peliculas_moe.flv
 
-#EXTINF:-1 tvg-chno="10.7" tvg-id="AztecaGuatemala.gt" tvg-logo="https://i.imgur.com/UJhQoUK.png" group-title="TV ABIERTA", AZTECA GUATE 
-https://ch1-tva.duin.dev/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.net/profile/0006/simpson_maniahd189.jpg"group-title=",  CINEMUNDO
+https://stream-cdn-iad3.vaughnsoft.net/play/live_cinemundo_0.flv
 
-#EXTINF:-1 tvg-chno="10.7" tvg-id="AztecaGuatemala.gt" tvg-logo="https://i.imgur.com/UJhQoUK.png" group-title="TV ABIERTA", A+ GUATE 
-https://ch2-tva.duin.dev/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.net/profile/0006/simpson_maniahd189.jpg"group-title=",  CINEMUNDO_PLUS
+https://stream-cdn-iad3.vaughnsoft.net/play/live_cinemundo_plus.flv
+
+#EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.net/profile/0006/simpson_maniahd189.jpg"group-title=",  SIMPSON_MEDIA
+https://stream-cdn-iad3.vaughnsoft.net/play/live_simpson_media.flv
+
+#EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.net/profile/0006/simpson_maniahd189.jpg"group-title=",  TERRORASIATICO
+https://stream-cdn-iad3.vaughnsoft.net/play/live_terrorasiatico24h.flv
 
 #EXTINF:-1 tvg-chno="10.7" tvg-id="AztecaGuatemala.gt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Azteca_7_variante_blanca_2021.png" group-title="TV ABIERTA", AZTECA 7
 http://190.11.225.124:5000/live/azteca7_hd/playlist.m3u8
