@@ -14,10 +14,10 @@
 					"stream_url":"http://access.cdn.rcs.net.ar/mnp/zoomoo/output.mpd"
 				},
              {
-                "name": "*Telefe",
-                "url": "https://chromecast.cvattv.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc_C/TelefeHD.mpd",
+                "a": "Telefe",
+                "stream_url": "https://chromecast.cvattv.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc_C/TelefeHD.mpd",
                 "type": "CLEARKEY",
-                "icono": "https://vimetrix.lat/femonpanel/superadmin/paneltv/banners/68fd7fd8a908d5.88183605.png",
+                "logo_url": "https://vimetrix.lat/femonpanel/superadmin/paneltv/banners/68fd7fd8a908d5.88183605.png",
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=3cec1b1ea9799dda5596e64f37e5ed20&key=c69f3afde2085dcaaaddbf55246a0323",
                 "headers": {
                     "Origin": "https://portal.app.flow.com.py",
