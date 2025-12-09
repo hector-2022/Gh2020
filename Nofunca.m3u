@@ -13,14 +13,7 @@
 					"logo_url":"https://geo.edge.pontiscloud.com:9002/images/1812/CH_LOGO/160/160/0/0/10249036073271.png",
 					"stream_url":"http://access.cdn.rcs.net.ar/mnp/zoomoo/output.mpd"
 				},
-             {
-                #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" group-title="ðŸ‡¦ðŸ‡· ARGENTINA", TELEFE PY
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=3cec1b1ea9799dda5596e64f37e5ed20&key=c69f3afde2085dcaaaddbf55246a0323
-#EXTVLCOPT:http-User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-https://chromecast.cvattv.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc_C/TelefeHD.mpd?|referer=https://portal.app.flow.com.py/&origin=https://portal.app.flow.com.py
-}
-            },
+             
 				{
 					"a":"A24",
 					"logo_url":"http://upload.wikimedia.org/wikipedia/commons/8/82/A24_%282019-1%29.png",
