@@ -297,6 +297,13 @@ https://cdn.sensa.com.ar/live/eds/TNTSports/live_dash_cld/TNTSports.mpd?|referer
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/output/ARR3/sensaeventosD/output.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DirecTV-Sports.png" group-title="Deportes" ch-number="116" type="channel",DSports
+http://38.199.6.1:17001/play/a0d0/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DirecTV-Sports.png" group-title="Deportes" ch-number="117" type="channel",DSports 2
+http://38.199.6.1:17001/play/a0vx/index.m3u8
+
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=04983282c2fa819a08fa03a13fe4fdbe:4780a24340ea957c4a27b257e2b6ec4c
 #EXTINF:-1 ch-number="119" tvg-id="Claro Sports HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/3441/CH_LOGO/800/542/0/0/61680399078962.png" group-title="CANALES SENSA", Claro Sports
