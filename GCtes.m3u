@@ -249,25 +249,6 @@ Error 307 Fuera de Servicio..Cuenta Suspendida
 
 
 
-#EXTINF:-1 tvg-id=ESPN PREMIUM.ar" tvg-logo="https://static.flow.com.ar/images/3545/CH_LOGO/1000/1000/0/0/92564610073951.png" group-title="Argentina",ESPN PREMIUM tvm
-https://val01.ride.com.ar/tvmia/d07/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TNT SPORTS.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/119/CH_LOGO/160/160/0/0/27256579073984.png" group-title="Argentina",TNT SPORTS PREMIUM tvm
-https://val03.ride.com.ar/tvmia/bn545/playlist.m3u8
-
-
-
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=4c79a27f46f44bfbb774b8c7f1f1e57f:530fd0cba9dc556a339b03af4b0951b9
-#EXTINF:-1 group-title="Argentina"  tvg-id="Canal26.ar.uy" tvg-name="CAN26" tvg-logo="https://i.ibb.co/zGzJ3jw/tnt-sports-premium.png?raw=true" tvg-group="Noticias", TNT SPORTS
-https://cdn.trimi.com.ar/live/sm-live/TNT_SPORTS_BKP4/sa_live_dash_ll/TNT_SPORTS_BKP4.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
-
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=3b6fa6524d254c96b5a101c8118d3ae6:d5e2a9d3e2c5aa8587eada281acef6bc
-#EXTINF:-1 group-title="Argentina"  tvg-id="Canal26.ar.uy" tvg-name="CAN26" tvg-logo="https://i.ibb.co/LrNsJsP/espnpremium.png?raw=true" tvg-group="Noticias", ESPN PREMIUM
-https://cdn.trimi.com.ar/live/sm-live/ESPN_PREM_BKP4/sa_live_dash_ll/ESPN_PREM_BKP4.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DirecTV-Sports.png" group-title="Deportes" ch-number="125",DSports 2
 http://201.230.121.85:8000/play/a0yv/index.m3u8
